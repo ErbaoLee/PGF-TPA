@@ -1,0 +1,89 @@
+{
+ "rows": {
+  "E_rw6": {
+   "overall": 2.899648830081536,
+   "ramp10": 5.894009419600915,
+   "up10": 5.942092554810375,
+   "down10": 5.83991119907751,
+   "nonramp10": 1.8179009986198504,
+   "sunny": 0.4850325696148603,
+   "cloudy": 4.110918219242555
+  },
+  "E_RAMP": {
+   "overall": 2.8464607559521866,
+   "ramp10": 6.247635604724958,
+   "up10": 6.3570643139556,
+   "down10": 6.123273859304914,
+   "nonramp10": 1.4518189246305027,
+   "sunny": 0.30438806558817755,
+   "cloudy": 4.0527325932935945
+  },
+  "E37": {
+   "overall": 2.850317397358096,
+   "ramp10": 6.319154484521986,
+   "up10": 6.439172509917364,
+   "down10": 6.182540245902161,
+   "nonramp10": 1.3999358451733606,
+   "sunny": 0.27942413657687654,
+   "cloudy": 4.060121046093972
+  },
+  "ConvLSTM_ens": {
+   "overall": 2.937277891565348,
+   "ramp10": 6.274534003162832,
+   "up10": 6.080221945252167,
+   "down10": 6.484400999630716,
+   "nonramp10": 1.6338791215161605,
+   "sunny": 0.6396350910743622,
+   "cloudy": 4.143287868547473
+  }
+ },
+ "paired_t": {
+  "E_RAMP_vs_ConvLSTM_ramp": -0.7778203065827762,
+  "E_RAMP_vs_E37_ramp": -16.384987431440504,
+  "E_RAMP_vs_E37_overall": -2.005430014101746,
+  "E_RAMP_vs_ConvLSTM_up": 6.040780921159921,
+  "E_RAMP_vs_ConvLSTM_down": -7.234415275801577,
+  "E_RAMP_vs_E_rw6_ramp": 13.523598373411376
+ },
+ "verdict": {
+  "ramp_sig_beats_convlstm": false,
+  "overall_le_2.87": true,
+  "PASS": false,
+  "E_rw6_ramp_sig_beats_convlstm": true,
+  "E_rw6_overall_sig_beats_convlstm": true
+ },
+ "gate_rw": {
+  "g_mean_ramp10": 0.7799387574195862,
+  "g_mean_up10": 0.7623372673988342,
+  "g_mean_down10": 0.7995710968971252,
+  "g_mean_nonramp10": 0.7109591960906982,
+  "g_mean_sunny_nonramp": 0.7740272283554077,
+  "spearman_g_absdP": -0.3313884932797284,
+  "对照_E37成员": {
+   "g_mean_ramp10": 0.6646,
+   "g_mean_nonramp10": 0.6612,
+   "spearman": -0.3398
+  }
+ },
+ "rw_members": [
+  "pgf_nocsi_rw4_s0",
+  "pgf_nocsi_rw4_s1",
+  "pgf_nocsi_rw4_s2",
+  "pgf_nocsi_clb_rw4_s0",
+  "pgf_nocsi_clb_rw4_s1",
+  "pgf_nocsi_clb_rw4_s2"
+ ],
+ "paired_t_E_rw6": {
+  "E_rw6_vs_ConvLSTM_ramp": -9.182659717523764,
+  "E_rw6_vs_ConvLSTM_up": -2.404410112712097,
+  "E_rw6_vs_ConvLSTM_down": -11.006882744327928,
+  "E_rw6_vs_CLSUNSET_ramp": -13.961235894963265,
+  "E_rw6_vs_SUNSET_ramp": -13.648774447250453,
+  "E_rw6_vs_GRU_ramp": -20.642848814658496,
+  "E_rw6_vs_E37_ramp": -13.963326280978325,
+  "E_rw6_vs_RAWper_ramp": -24.53518995650017,
+  "E_rw6_vs_ConvLSTM_overall": -2.187229321322835,
+  "E_rw6_vs_CLSUNSET_overall": -3.689050251774401,
+  "E_rw6_vs_SUNSET_overall": -4.779939800398324
+ }
+}

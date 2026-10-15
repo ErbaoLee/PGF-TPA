@@ -1,0 +1,9 @@
+{
+  "speed_mean": 0.5278925895690918,
+  "speed_std": 0.08451952785253525,
+  "speed_ramp": 0.574426531791687,
+  "speed_nonramp": 0.5188443064689636,
+  "pearson_speed_absdP": 0.2073615369596628,
+  "spearman_speed_absdP": 0.2190466159546541,
+  "n": 5590
+}

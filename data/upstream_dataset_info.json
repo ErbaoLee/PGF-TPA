@@ -1,0 +1,78 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "skippd",
+  "dataset_size": 2320586402,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/solarbench/SKIPPD@f51690de73d34cc409670ef6119fd69cc3aade8d/data/train-00000-of-00005.parquet": {
+      "num_bytes": 447992794,
+      "checksum": null
+    },
+    "hf://datasets/solarbench/SKIPPD@f51690de73d34cc409670ef6119fd69cc3aade8d/data/train-00001-of-00005.parquet": {
+      "num_bytes": 454925674,
+      "checksum": null
+    },
+    "hf://datasets/solarbench/SKIPPD@f51690de73d34cc409670ef6119fd69cc3aade8d/data/train-00002-of-00005.parquet": {
+      "num_bytes": 470731142,
+      "checksum": null
+    },
+    "hf://datasets/solarbench/SKIPPD@f51690de73d34cc409670ef6119fd69cc3aade8d/data/train-00003-of-00005.parquet": {
+      "num_bytes": 438715349,
+      "checksum": null
+    },
+    "hf://datasets/solarbench/SKIPPD@f51690de73d34cc409670ef6119fd69cc3aade8d/data/train-00004-of-00005.parquet": {
+      "num_bytes": 419078890,
+      "checksum": null
+    },
+    "hf://datasets/solarbench/SKIPPD@f51690de73d34cc409670ef6119fd69cc3aade8d/data/test-00000-of-00001.parquet": {
+      "num_bytes": 90299692,
+      "checksum": null
+    }
+  },
+  "download_size": 2321743541,
+  "features": {
+    "image": {
+      "_type": "Image"
+    },
+    "time": {
+      "dtype": "timestamp[s, tz=US/Pacific]",
+      "_type": "Value"
+    },
+    "pv": {
+      "dtype": "float32",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 4642329943,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 2230331038,
+      "num_examples": 349372,
+      "shard_lengths": [
+        78175,
+        75975,
+        74974,
+        81974,
+        38274
+      ],
+      "dataset_name": "skippd"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 90255364,
+      "num_examples": 14003,
+      "dataset_name": "skippd"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

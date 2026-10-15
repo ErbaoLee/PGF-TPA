@@ -1,0 +1,2 @@
+# Recompute saved predictions and audit assets without PyTorch or raw images.
+numpy>=1.26,<3

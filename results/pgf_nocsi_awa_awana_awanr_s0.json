@@ -1,0 +1,32 @@
+{
+  "unit": "kW",
+  "sunny": {
+    "rmse": 0.3168238304805059,
+    "mae": 0.24057299410670926,
+    "r2": 0.9979278760752383,
+    "n": 5697
+  },
+  "cloudy": {
+    "rmse": 4.102345403632372,
+    "mae": 2.770162586621662,
+    "r2": 0.6830197716894896,
+    "n": 5483
+  },
+  "overall": {
+    "rmse": 2.8817878665254404,
+    "mae": 1.4811579436379692,
+    "r2": 0.8462698668782548,
+    "n": 11180
+  },
+  "tag": "pgf_nocsi_awa_awana_awanr_s0",
+  "val_rmse": 1.8534531593322754,
+  "seed": 0,
+  "model": "pgf_nocsi_awa_awana_awanr",
+  "best_src": "ema",
+  "ablation": {
+    "csi": false,
+    "gate": true,
+    "image": true
+  },
+  "skill_vs_raw_overall": 0.22266405335914807
+}

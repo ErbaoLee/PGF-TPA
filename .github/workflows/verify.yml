@@ -1,0 +1,16 @@
+name: Verify release
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  reproduce:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements-metrics.txt
+      - run: python -m compileall -q src scripts
+      - run: python scripts/verify_assets.py
+      - run: python scripts/reproduce.py

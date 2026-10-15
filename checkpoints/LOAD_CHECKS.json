@@ -1,0 +1,847 @@
+[
+  {
+    "path": "results/convlstm_h30_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/convlstm_h30_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/convlstm_h30_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/convlstm_h5_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/convlstm_h5_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/convlstm_h5_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/convlstm_s0_r1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/convlstm_s1_r1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/convlstm_s2_r1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/crossgnn_h30_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/crossgnn_h30_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/crossgnn_h30_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/crossgnn_h5_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/crossgnn_h5_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/crossgnn_h5_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/crossgnn_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/crossgnn_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/crossgnn_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/dlinear_h30_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/dlinear_h30_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/dlinear_h30_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/dlinear_h5_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/dlinear_h5_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/dlinear_h5_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/dlinear_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/dlinear_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/dlinear_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/patchtst_h30_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/patchtst_h30_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/patchtst_h30_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/patchtst_h5_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/patchtst_h5_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/patchtst_h5_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/patchtst_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/patchtst_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/patchtst_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_awa1_s0_ckpt.pt",
+    "status": "historical_incompatible",
+    "detail": "Error(s) in loading state_dict for PGF:\n\tMissing key(s) in state_dict: \"awa.spatial.5.conv1.weight\", \"awa.spatial.5.conv1.bias\", \"awa.spatial.5.conv2.weight\", \"awa.spatial.5.conv2.bias\", \"awa.near_cell.conv_zr.weight\", \"awa.near_cell.conv_zr.bias\", \"awa.near_cell.conv_h.weight\", \"awa.near_cell.conv_h.bias\". \n\tUnexpected key(s) in state_dict: \"awa.spatial.3.skip.weight\", \"awa.spatial.3.skip.bias\". \n\tsize mismatch for awa.spatial.2.conv1.weight: copying a param with shape torch.Size([16, 8, 3, 3]) from checkpoint, the shape in current model is torch.Size([32, 8, 3, 3]).\n\tsize mismatch for awa.spatial.2.conv1.bias: copying a param with shape torch.Size([16]) from checkpoint, the shape in current model is torch.Size([32]).\n\tsize mismatch for awa.spatial.2.conv2.weight: copying a param with shape torch.Size([16, 16, 3, 3]) from checkpoint, the shape in current model is torch.Size([32, 32, 3, 3]).\n\tsize mismatch for awa.spatial.2.conv2.bias: copying a param with shape torch.Size([16]) from checkpoint, the shape in current model is torch.Size([32]).\n\tsize mismatch for awa.spatial.2.skip.weight: copying a param with shape torch.Size([16, 8, 1, 1]) from checkpoint, the shape in current model is torch.Size([32, 8, 1, 1]).\n\tsize mismatch for awa.spatial.2.skip.bias: copying a param with shape torch.Size([16]) from checkpoint, the shape in current model is torch.Size([32]).\n\tsize mismatch for awa.spatial.3.conv1.weight: copying a param with shape torch.Size([32, 16, 3, 3]) from checkpoint, the shape in current model is torch.Size([32, 32, 3, 3]).\n\tsize mismatch for awa.post.0.weight: c"
+  },
+  {
+    "path": "results/pgf_nocsi_awa_awana_awanr_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_awa_awana_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_awa_awane_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_awa_awanr_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_awa_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_awa_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_awa_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_rw4_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_rw4_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_rw4_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s0_f0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s0_f1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s0_f2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s0_f3_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s0_f4_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s1_f0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s1_f1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s1_f2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s1_f3_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s1_f4_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s2_f0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s2_f1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s2_f2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s2_f3_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s2_f4_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s3_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s3_f0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s3_f1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s3_f2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s3_f3_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_clb_s3_f4_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_rw4_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_rw4_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_rw4_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_s1_f0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_s1_f1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_s1_f2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_s1_f3_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_s1_f4_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_s2_f0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_s2_f1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_s2_f2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_s2_f3_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_s2_f4_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_aa0.5_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_h30_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_h30_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_h30_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_h5_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_h5_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_h5_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_res_l10.5_h30_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_res_l10.5_h30_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_res_l10.5_h30_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_res_l10.5_h5_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_res_l10.5_h5_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_res_l10.5_h5_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_res_l10.5_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_res_l10.5_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_res_l10.5_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_rw4_h30_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_rw4_h30_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_rw4_h30_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_rw4_h5_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_rw4_h5_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_rw4_h5_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_rw4_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_rw4_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_rw4_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_s0_f0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_s0_f1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_s0_f2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_s0_f3_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_s0_f4_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_s1_f0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_s1_f1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_s1_f2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_s1_f3_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_s1_f4_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_s2_f0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_s2_f1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_s2_f2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_s2_f3_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_s2_f4_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_tpams_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_tpams_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_tpams_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_tpasa_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_tpasa_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/pgf_nocsi_tpa_tpasa_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/reslstm_h30_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/reslstm_h30_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/reslstm_h30_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/reslstm_h5_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/reslstm_h5_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/reslstm_h5_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/reslstm_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/reslstm_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/reslstm_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/skybimamba_h30_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/skybimamba_h30_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/skybimamba_h30_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/skybimamba_h5_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/skybimamba_h5_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/skybimamba_h5_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/skybimamba_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/skybimamba_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/skybimamba_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/sunset_h30_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/sunset_h30_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/sunset_h30_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/sunset_h5_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/sunset_h5_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/sunset_h5_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/sunset_s0_r1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/sunset_s1_r1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/sunset_s2_r1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/transformer_h30_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/transformer_h30_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/transformer_h30_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/transformer_h5_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/transformer_h5_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/transformer_h5_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/transformer_s0_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/transformer_s1_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  },
+  {
+    "path": "results/transformer_s2_ckpt.pt",
+    "status": "compatible",
+    "detail": ""
+  }
+]

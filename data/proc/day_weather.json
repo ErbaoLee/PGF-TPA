@@ -1,0 +1,4655 @@
+{
+ "2017-06-24": {
+  "clearness": 0.8054,
+  "var_n": 0.0591,
+  "rri": 9.0991,
+  "bright": 0.2999,
+  "sat": 0.1559,
+  "split": "test",
+  "cls": "cloudy"
+ },
+ "2017-09-15": {
+  "clearness": 0.9681,
+  "var_n": 0.0091,
+  "rri": 5.4633,
+  "bright": 0.2933,
+  "sat": 0.4007,
+  "split": "test",
+  "cls": "sunny"
+ },
+ "2017-09-20": {
+  "clearness": 0.4708,
+  "var_n": 0.0912,
+  "rri": 3.2247,
+  "bright": 0.2767,
+  "sat": 0.3552,
+  "split": "test",
+  "cls": "cloudy"
+ },
+ "2017-10-06": {
+  "clearness": 0.9345,
+  "var_n": 0.0043,
+  "rri": 2.0617,
+  "bright": 0.3201,
+  "sat": 0.2398,
+  "split": "test",
+  "cls": "sunny"
+ },
+ "2017-10-11": {
+  "clearness": 0.6784,
+  "var_n": 0.028,
+  "rri": 0.939,
+  "bright": 0.2953,
+  "sat": 0.1602,
+  "split": "test",
+  "cls": "cloudy"
+ },
+ "2017-10-22": {
+  "clearness": 0.9811,
+  "var_n": 0.0051,
+  "rri": 1.2682,
+  "bright": 0.3175,
+  "sat": 0.2854,
+  "split": "test",
+  "cls": "sunny"
+ },
+ "2018-01-25": {
+  "clearness": 0.8136,
+  "var_n": 0.0752,
+  "rri": 1.3436,
+  "bright": 0.2957,
+  "sat": 0.2614,
+  "split": "test",
+  "cls": "cloudy"
+ },
+ "2018-02-16": {
+  "clearness": 0.9793,
+  "var_n": 0.0045,
+  "rri": 1.0056,
+  "bright": 0.3187,
+  "sat": 0.2662,
+  "split": "test",
+  "cls": "sunny"
+ },
+ "2018-03-09": {
+  "clearness": 0.7817,
+  "var_n": 0.0516,
+  "rri": 1.1827,
+  "bright": 0.2924,
+  "sat": 0.1473,
+  "split": "test",
+  "cls": "cloudy"
+ },
+ "2018-06-12": {
+  "clearness": 0.9241,
+  "var_n": 0.0111,
+  "rri": 7.9222,
+  "bright": 0.3212,
+  "sat": 0.2401,
+  "split": "test",
+  "cls": "sunny"
+ },
+ "2018-06-23": {
+  "clearness": 0.8975,
+  "var_n": 0.0107,
+  "rri": 7.7647,
+  "bright": 0.3238,
+  "sat": 0.2304,
+  "split": "test",
+  "cls": "sunny"
+ },
+ "2018-10-04": {
+  "clearness": 0.7393,
+  "var_n": 0.0666,
+  "rri": 2.5569,
+  "bright": 0.2821,
+  "sat": 0.2106,
+  "split": "test",
+  "cls": "cloudy"
+ },
+ "2019-01-25": {
+  "clearness": 0.9348,
+  "var_n": 0.0048,
+  "rri": 1.0207,
+  "bright": 0.2948,
+  "sat": 0.1997,
+  "split": "test",
+  "cls": "sunny"
+ },
+ "2019-05-27": {
+  "clearness": 0.568,
+  "var_n": 0.0552,
+  "rri": 1.8112,
+  "bright": 0.275,
+  "sat": 0.2401,
+  "split": "test",
+  "cls": "cloudy"
+ },
+ "2019-06-23": {
+  "clearness": 0.8942,
+  "var_n": 0.0106,
+  "rri": 7.6735,
+  "bright": 0.289,
+  "sat": 0.4125,
+  "split": "test",
+  "cls": "sunny"
+ },
+ "2019-06-28": {
+  "clearness": 0.8746,
+  "var_n": 0.0351,
+  "rri": 8.7644,
+  "bright": 0.2773,
+  "sat": 0.3338,
+  "split": "test",
+  "cls": "cloudy"
+ },
+ "2019-07-14": {
+  "clearness": 0.9087,
+  "var_n": 0.0126,
+  "rri": 8.8123,
+  "bright": 0.2845,
+  "sat": 0.4227,
+  "split": "test",
+  "cls": "sunny"
+ },
+ "2019-08-10": {
+  "clearness": 0.7193,
+  "var_n": 0.0532,
+  "rri": 7.7693,
+  "bright": 0.2743,
+  "sat": 0.3092,
+  "split": "test",
+  "cls": "cloudy"
+ },
+ "2019-10-14": {
+  "clearness": 0.871,
+  "var_n": 0.0041,
+  "rri": 1.0841,
+  "bright": 0.2795,
+  "sat": 0.3797,
+  "split": "test",
+  "cls": "sunny"
+ },
+ "2019-10-19": {
+  "clearness": 0.4986,
+  "var_n": 0.0612,
+  "rri": 1.4539,
+  "bright": 0.2737,
+  "sat": 0.2502,
+  "split": "test",
+  "cls": "cloudy"
+ },
+ "2017-03-09": {
+  "clearness": 0.8704,
+  "var_n": 0.0139,
+  "rri": 1.0286,
+  "bright": 0.3397,
+  "sat": 0.1904,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-05-12": {
+  "clearness": 0.9996,
+  "var_n": 0.0211,
+  "rri": 7.8324,
+  "bright": 0.3317,
+  "sat": 0.2672,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-05-13": {
+  "clearness": 0.9937,
+  "var_n": 0.0142,
+  "rri": 7.3101,
+  "bright": 0.3058,
+  "sat": 0.2553,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-05-14": {
+  "clearness": 0.9979,
+  "var_n": 0.0258,
+  "rri": 6.8662,
+  "bright": 0.2958,
+  "sat": 0.2412,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-05-15": {
+  "clearness": 0.9727,
+  "var_n": 0.0242,
+  "rri": 7.1724,
+  "bright": 0.3052,
+  "sat": 0.2245,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-05-16": {
+  "clearness": 0.5923,
+  "var_n": 0.0602,
+  "rri": 2.3997,
+  "bright": 0.2977,
+  "sat": 0.1714,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-05-18": {
+  "clearness": 1.4248,
+  "var_n": 0.0436,
+  "rri": 6.8793,
+  "bright": 0.303,
+  "sat": 0.2416,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-05-19": {
+  "clearness": 0.9204,
+  "var_n": 0.01,
+  "rri": 7.0641,
+  "bright": 0.3189,
+  "sat": 0.2567,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-05-20": {
+  "clearness": 0.984,
+  "var_n": 0.0116,
+  "rri": 8.2787,
+  "bright": 0.3244,
+  "sat": 0.2579,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-05-21": {
+  "clearness": 0.9931,
+  "var_n": 0.013,
+  "rri": 8.8813,
+  "bright": 0.3231,
+  "sat": 0.2497,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-05-22": {
+  "clearness": 1.0083,
+  "var_n": 0.015,
+  "rri": 9.0774,
+  "bright": 0.2993,
+  "sat": 0.2187,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-05-23": {
+  "clearness": 1.0041,
+  "var_n": 0.0139,
+  "rri": 8.5722,
+  "bright": 0.2986,
+  "sat": 0.1981,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-05-24": {
+  "clearness": 0.9554,
+  "var_n": 0.0303,
+  "rri": 9.8755,
+  "bright": 0.3043,
+  "sat": 0.1514,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-05-25": {
+  "clearness": 1.0778,
+  "var_n": 0.0392,
+  "rri": 8.7338,
+  "bright": 0.3012,
+  "sat": 0.2492,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-05-26": {
+  "clearness": 0.6005,
+  "var_n": 0.032,
+  "rri": 8.0774,
+  "bright": 0.296,
+  "sat": 0.1922,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-05-27": {
+  "clearness": 0.9919,
+  "var_n": 0.0233,
+  "rri": 9.1012,
+  "bright": 0.2983,
+  "sat": 0.1962,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-05-28": {
+  "clearness": 0.9623,
+  "var_n": 0.016,
+  "rri": 8.6964,
+  "bright": 0.2949,
+  "sat": 0.1908,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-05-29": {
+  "clearness": 0.9658,
+  "var_n": 0.0461,
+  "rri": 8.8621,
+  "bright": 0.3006,
+  "sat": 0.1822,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-05-30": {
+  "clearness": 0.8581,
+  "var_n": 0.037,
+  "rri": 5.585,
+  "bright": 0.301,
+  "sat": 0.1689,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-05-31": {
+  "clearness": 1.0119,
+  "var_n": 0.0121,
+  "rri": 8.2129,
+  "bright": 0.3146,
+  "sat": 0.2647,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-06-01": {
+  "clearness": 1.004,
+  "var_n": 0.0305,
+  "rri": 9.47,
+  "bright": 0.2954,
+  "sat": 0.2168,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-06-02": {
+  "clearness": 1.008,
+  "var_n": 0.0121,
+  "rri": 8.4212,
+  "bright": 0.3175,
+  "sat": 0.2322,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-06-03": {
+  "clearness": 0.9743,
+  "var_n": 0.0432,
+  "rri": 8.8247,
+  "bright": 0.3045,
+  "sat": 0.1993,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-06-04": {
+  "clearness": 1.0233,
+  "var_n": 0.0128,
+  "rri": 9.1379,
+  "bright": 0.3179,
+  "sat": 0.2333,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-06-05": {
+  "clearness": 1.0066,
+  "var_n": 0.0128,
+  "rri": 8.5734,
+  "bright": 0.3138,
+  "sat": 0.2095,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-06-06": {
+  "clearness": 1.0333,
+  "var_n": 0.0148,
+  "rri": 8.1672,
+  "bright": 0.3033,
+  "sat": 0.1918,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-06-07": {
+  "clearness": 0.7625,
+  "var_n": 0.0394,
+  "rri": 3.8783,
+  "bright": 0.3083,
+  "sat": 0.1589,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-06-08": {
+  "clearness": 0.4022,
+  "var_n": 0.0245,
+  "rri": 2.7645,
+  "bright": 0.2929,
+  "sat": 0.1822,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2017-06-09": {
+  "clearness": 0.8552,
+  "var_n": 0.036,
+  "rri": 10.1404,
+  "bright": 0.301,
+  "sat": 0.1941,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-06-10": {
+  "clearness": 1.0326,
+  "var_n": 0.0505,
+  "rri": 9.9939,
+  "bright": 0.3087,
+  "sat": 0.2395,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-06-11": {
+  "clearness": 0.9797,
+  "var_n": 0.0919,
+  "rri": 5.3018,
+  "bright": 0.3111,
+  "sat": 0.2398,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-06-12": {
+  "clearness": 0.9745,
+  "var_n": 0.0436,
+  "rri": 9.4995,
+  "bright": 0.3006,
+  "sat": 0.2079,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-06-13": {
+  "clearness": 1.0073,
+  "var_n": 0.013,
+  "rri": 9.3847,
+  "bright": 0.3182,
+  "sat": 0.2382,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-06-14": {
+  "clearness": 1.0025,
+  "var_n": 0.0127,
+  "rri": 9.2306,
+  "bright": 0.3195,
+  "sat": 0.2376,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-06-18": {
+  "clearness": 1.7185,
+  "var_n": 0.0593,
+  "rri": 6.446,
+  "bright": 0.311,
+  "sat": 0.2209,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-06-19": {
+  "clearness": 0.9347,
+  "var_n": 0.0105,
+  "rri": 7.5941,
+  "bright": 0.3163,
+  "sat": 0.1985,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-06-20": {
+  "clearness": 0.9624,
+  "var_n": 0.0114,
+  "rri": 8.396,
+  "bright": 0.3192,
+  "sat": 0.2166,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-06-21": {
+  "clearness": 0.9619,
+  "var_n": 0.0128,
+  "rri": 8.4894,
+  "bright": 0.3005,
+  "sat": 0.202,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-06-22": {
+  "clearness": 0.9247,
+  "var_n": 0.0115,
+  "rri": 8.3302,
+  "bright": 0.3166,
+  "sat": 0.1915,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-06-23": {
+  "clearness": 0.9691,
+  "var_n": 0.0174,
+  "rri": 8.7308,
+  "bright": 0.2981,
+  "sat": 0.1932,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-06-25": {
+  "clearness": 0.9766,
+  "var_n": 0.0249,
+  "rri": 9.4765,
+  "bright": 0.3024,
+  "sat": 0.2109,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-06-26": {
+  "clearness": 0.8807,
+  "var_n": 0.0149,
+  "rri": 1.1089,
+  "bright": 0.3109,
+  "sat": 0.2151,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-06-30": {
+  "clearness": 1.1894,
+  "var_n": 0.0221,
+  "rri": 9.1181,
+  "bright": 0.3005,
+  "sat": 0.2023,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-07-01": {
+  "clearness": 1.0054,
+  "var_n": 0.0191,
+  "rri": 9.5757,
+  "bright": 0.3118,
+  "sat": 0.2194,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-07-02": {
+  "clearness": 0.9829,
+  "var_n": 0.0143,
+  "rri": 9.9054,
+  "bright": 0.3059,
+  "sat": 0.2032,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-07-03": {
+  "clearness": 0.9832,
+  "var_n": 0.0168,
+  "rri": 10.3145,
+  "bright": 0.3022,
+  "sat": 0.201,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-07-04": {
+  "clearness": 0.9991,
+  "var_n": 0.0138,
+  "rri": 9.1979,
+  "bright": 0.3023,
+  "sat": 0.2105,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-07-05": {
+  "clearness": 0.9225,
+  "var_n": 0.0286,
+  "rri": 9.0435,
+  "bright": 0.301,
+  "sat": 0.2005,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-07-06": {
+  "clearness": 0.9477,
+  "var_n": 0.0122,
+  "rri": 8.9018,
+  "bright": 0.3178,
+  "sat": 0.2291,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-07-07": {
+  "clearness": 0.9358,
+  "var_n": 0.0124,
+  "rri": 9.1292,
+  "bright": 0.3244,
+  "sat": 0.2347,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-07-08": {
+  "clearness": 0.9265,
+  "var_n": 0.0131,
+  "rri": 9.5657,
+  "bright": 0.3186,
+  "sat": 0.205,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-07-26": {
+  "clearness": 0.8544,
+  "var_n": 0.0226,
+  "rri": 9.3947,
+  "bright": 0.2981,
+  "sat": 0.1971,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-07-27": {
+  "clearness": 0.9272,
+  "var_n": 0.0141,
+  "rri": 9.4644,
+  "bright": 0.3042,
+  "sat": 0.2269,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-07-28": {
+  "clearness": 0.9394,
+  "var_n": 0.013,
+  "rri": 7.5969,
+  "bright": 0.3123,
+  "sat": 0.2424,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-07-29": {
+  "clearness": 0.9488,
+  "var_n": 0.0155,
+  "rri": 9.3496,
+  "bright": 0.2974,
+  "sat": 0.231,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-07-30": {
+  "clearness": 0.9301,
+  "var_n": 0.0145,
+  "rri": 9.631,
+  "bright": 0.303,
+  "sat": 0.2107,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-07-31": {
+  "clearness": 0.9549,
+  "var_n": 0.0132,
+  "rri": 8.6626,
+  "bright": 0.3065,
+  "sat": 0.2329,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-01": {
+  "clearness": 0.9136,
+  "var_n": 0.0126,
+  "rri": 8.5927,
+  "bright": 0.3139,
+  "sat": 0.22,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-02": {
+  "clearness": 0.8881,
+  "var_n": 0.0203,
+  "rri": 9.7535,
+  "bright": 0.3081,
+  "sat": 0.1843,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-08-03": {
+  "clearness": 0.4441,
+  "var_n": 0.0194,
+  "rri": 7.5886,
+  "bright": 0.2919,
+  "sat": 0.1685,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2017-08-04": {
+  "clearness": 0.2861,
+  "var_n": 0.0195,
+  "rri": 7.4167,
+  "bright": 0.2977,
+  "sat": 0.1711,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2017-08-05": {
+  "clearness": 0.8956,
+  "var_n": 0.0208,
+  "rri": 8.2929,
+  "bright": 0.2972,
+  "sat": 0.188,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-08-06": {
+  "clearness": 0.9092,
+  "var_n": 0.0138,
+  "rri": 7.6596,
+  "bright": 0.2937,
+  "sat": 0.2128,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-07": {
+  "clearness": 0.8994,
+  "var_n": 0.0173,
+  "rri": 7.1191,
+  "bright": 0.2936,
+  "sat": 0.1817,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-08": {
+  "clearness": 0.897,
+  "var_n": 0.0166,
+  "rri": 7.8074,
+  "bright": 0.2943,
+  "sat": 0.1677,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-09": {
+  "clearness": 0.8725,
+  "var_n": 0.0149,
+  "rri": 6.8223,
+  "bright": 0.2933,
+  "sat": 0.1668,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-10": {
+  "clearness": 0.8712,
+  "var_n": 0.0136,
+  "rri": 7.3932,
+  "bright": 0.2986,
+  "sat": 0.1582,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-11": {
+  "clearness": 0.8719,
+  "var_n": 0.0127,
+  "rri": 7.5444,
+  "bright": 0.3007,
+  "sat": 0.1606,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-12": {
+  "clearness": 0.9163,
+  "var_n": 0.0147,
+  "rri": 7.9501,
+  "bright": 0.2929,
+  "sat": 0.1923,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-13": {
+  "clearness": 0.9195,
+  "var_n": 0.0123,
+  "rri": 8.4492,
+  "bright": 0.3187,
+  "sat": 0.2608,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-14": {
+  "clearness": 0.9284,
+  "var_n": 0.0493,
+  "rri": 6.9982,
+  "bright": 0.2959,
+  "sat": 0.2247,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-08-15": {
+  "clearness": 0.9468,
+  "var_n": 0.0118,
+  "rri": 7.6668,
+  "bright": 0.3069,
+  "sat": 0.2157,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-16": {
+  "clearness": 0.8943,
+  "var_n": 0.0144,
+  "rri": 7.4223,
+  "bright": 0.2894,
+  "sat": 0.1894,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-17": {
+  "clearness": 0.8684,
+  "var_n": 0.0105,
+  "rri": 6.2708,
+  "bright": 0.3018,
+  "sat": 0.1722,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-18": {
+  "clearness": 0.8104,
+  "var_n": 0.0161,
+  "rri": 6.356,
+  "bright": 0.2873,
+  "sat": 0.3342,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-19": {
+  "clearness": 0.8177,
+  "var_n": 0.0048,
+  "rri": 1.6986,
+  "bright": 0.282,
+  "sat": 0.3245,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-20": {
+  "clearness": 0.8881,
+  "var_n": 0.0109,
+  "rri": 6.2013,
+  "bright": 0.2898,
+  "sat": 0.3404,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-21": {
+  "clearness": 0.8456,
+  "var_n": 0.0206,
+  "rri": 3.5382,
+  "bright": 0.2879,
+  "sat": 0.3138,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-08-22": {
+  "clearness": 0.8819,
+  "var_n": 0.0124,
+  "rri": 6.4122,
+  "bright": 0.2825,
+  "sat": 0.3517,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-23": {
+  "clearness": 0.8078,
+  "var_n": 0.0149,
+  "rri": 6.2482,
+  "bright": 0.2828,
+  "sat": 0.3222,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-24": {
+  "clearness": 0.8801,
+  "var_n": 0.0088,
+  "rri": 1.5374,
+  "bright": 0.2862,
+  "sat": 0.3961,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-25": {
+  "clearness": 0.904,
+  "var_n": 0.0138,
+  "rri": 7.0078,
+  "bright": 0.2749,
+  "sat": 0.3687,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-26": {
+  "clearness": 0.8967,
+  "var_n": 0.0119,
+  "rri": 6.8596,
+  "bright": 0.3034,
+  "sat": 0.3931,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-27": {
+  "clearness": 0.8608,
+  "var_n": 0.0098,
+  "rri": 6.2832,
+  "bright": 0.3029,
+  "sat": 0.3795,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-28": {
+  "clearness": 0.8713,
+  "var_n": 0.0099,
+  "rri": 6.2882,
+  "bright": 0.3065,
+  "sat": 0.3862,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-29": {
+  "clearness": 0.8637,
+  "var_n": 0.0145,
+  "rri": 7.4125,
+  "bright": 0.2828,
+  "sat": 0.3491,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-30": {
+  "clearness": 0.9111,
+  "var_n": 0.0158,
+  "rri": 6.9597,
+  "bright": 0.2929,
+  "sat": 0.3814,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-08-31": {
+  "clearness": 0.8789,
+  "var_n": 0.0098,
+  "rri": 5.0415,
+  "bright": 0.2953,
+  "sat": 0.3457,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-09-01": {
+  "clearness": 0.7622,
+  "var_n": 0.0075,
+  "rri": 3.4594,
+  "bright": 0.2913,
+  "sat": 0.333,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-09-02": {
+  "clearness": 0.7703,
+  "var_n": 0.0163,
+  "rri": 3.4155,
+  "bright": 0.2882,
+  "sat": 0.3348,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-09-03": {
+  "clearness": 0.6396,
+  "var_n": 0.0465,
+  "rri": 3.2698,
+  "bright": 0.2747,
+  "sat": 0.3231,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-09-04": {
+  "clearness": 0.3812,
+  "var_n": 0.0392,
+  "rri": 1.4752,
+  "bright": 0.2884,
+  "sat": 0.323,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2017-09-05": {
+  "clearness": 0.8515,
+  "var_n": 0.0203,
+  "rri": 5.5391,
+  "bright": 0.2725,
+  "sat": 0.3363,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-09-06": {
+  "clearness": 0.6208,
+  "var_n": 0.0557,
+  "rri": 2.3854,
+  "bright": 0.2811,
+  "sat": 0.3275,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-09-07": {
+  "clearness": 0.4153,
+  "var_n": 0.0369,
+  "rri": 2.8197,
+  "bright": 0.2798,
+  "sat": 0.3023,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2017-09-08": {
+  "clearness": 0.8813,
+  "var_n": 0.012,
+  "rri": 4.476,
+  "bright": 0.2786,
+  "sat": 0.3414,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-09-09": {
+  "clearness": 0.8174,
+  "var_n": 0.0067,
+  "rri": 1.4963,
+  "bright": 0.2791,
+  "sat": 0.3321,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-09-10": {
+  "clearness": 0.8358,
+  "var_n": 0.0152,
+  "rri": 4.5952,
+  "bright": 0.2882,
+  "sat": 0.3548,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-09-11": {
+  "clearness": 0.6376,
+  "var_n": 0.0653,
+  "rri": 1.4494,
+  "bright": 0.2852,
+  "sat": 0.3268,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-09-12": {
+  "clearness": 0.8574,
+  "var_n": 0.0443,
+  "rri": 5.3798,
+  "bright": 0.2796,
+  "sat": 0.369,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-09-13": {
+  "clearness": 0.9559,
+  "var_n": 0.0212,
+  "rri": 6.0483,
+  "bright": 0.2853,
+  "sat": 0.3893,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-09-14": {
+  "clearness": 0.9789,
+  "var_n": 0.0279,
+  "rri": 6.7906,
+  "bright": 0.2807,
+  "sat": 0.4143,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-09-16": {
+  "clearness": 0.8755,
+  "var_n": 0.0346,
+  "rri": 4.7282,
+  "bright": 0.2774,
+  "sat": 0.3335,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-09-17": {
+  "clearness": 0.9663,
+  "var_n": 0.0112,
+  "rri": 5.9787,
+  "bright": 0.2875,
+  "sat": 0.4017,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-09-18": {
+  "clearness": 0.6834,
+  "var_n": 0.0867,
+  "rri": 4.195,
+  "bright": 0.2714,
+  "sat": 0.3992,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-09-19": {
+  "clearness": 0.9518,
+  "var_n": 0.0138,
+  "rri": 5.2347,
+  "bright": 0.2976,
+  "sat": 0.415,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-09-21": {
+  "clearness": 1.0121,
+  "var_n": 0.0499,
+  "rri": 4.8959,
+  "bright": 0.2842,
+  "sat": 0.4155,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-09-22": {
+  "clearness": 0.9126,
+  "var_n": 0.0505,
+  "rri": 5.1747,
+  "bright": 0.2798,
+  "sat": 0.4479,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-09-23": {
+  "clearness": 0.9777,
+  "var_n": 0.0093,
+  "rri": 5.4508,
+  "bright": 0.3044,
+  "sat": 0.4334,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-09-24": {
+  "clearness": 0.9336,
+  "var_n": 0.0238,
+  "rri": 5.3534,
+  "bright": 0.3244,
+  "sat": 0.235,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-09-30": {
+  "clearness": 0.9278,
+  "var_n": 0.0074,
+  "rri": 3.0406,
+  "bright": 0.3138,
+  "sat": 0.2353,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-10-01": {
+  "clearness": 0.9407,
+  "var_n": 0.0124,
+  "rri": 3.1272,
+  "bright": 0.3092,
+  "sat": 0.2259,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-10-02": {
+  "clearness": 0.9931,
+  "var_n": 0.0067,
+  "rri": 3.4645,
+  "bright": 0.322,
+  "sat": 0.26,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-10-03": {
+  "clearness": 0.9414,
+  "var_n": 0.0054,
+  "rri": 2.5836,
+  "bright": 0.3099,
+  "sat": 0.2192,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-10-04": {
+  "clearness": 0.95,
+  "var_n": 0.0057,
+  "rri": 2.5857,
+  "bright": 0.319,
+  "sat": 0.2449,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-10-05": {
+  "clearness": 0.9318,
+  "var_n": 0.0051,
+  "rri": 2.3325,
+  "bright": 0.3193,
+  "sat": 0.2411,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-10-07": {
+  "clearness": 0.9454,
+  "var_n": 0.0041,
+  "rri": 1.7248,
+  "bright": 0.3194,
+  "sat": 0.2404,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-10-08": {
+  "clearness": 0.922,
+  "var_n": 0.0046,
+  "rri": 1.3232,
+  "bright": 0.3157,
+  "sat": 0.2183,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-10-09": {
+  "clearness": 0.8543,
+  "var_n": 0.0071,
+  "rri": 1.1596,
+  "bright": 0.3091,
+  "sat": 0.1893,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-10-10": {
+  "clearness": 0.7598,
+  "var_n": 0.0219,
+  "rri": 1.5012,
+  "bright": 0.3044,
+  "sat": 0.1608,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-10-12": {
+  "clearness": 0.941,
+  "var_n": 0.0087,
+  "rri": 1.1948,
+  "bright": 0.299,
+  "sat": 0.1795,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-10-13": {
+  "clearness": 0.8732,
+  "var_n": 0.0056,
+  "rri": 1.1022,
+  "bright": 0.306,
+  "sat": 0.1783,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-10-14": {
+  "clearness": 0.9398,
+  "var_n": 0.0056,
+  "rri": 1.2203,
+  "bright": 0.3227,
+  "sat": 0.2293,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-10-15": {
+  "clearness": 0.8755,
+  "var_n": 0.0064,
+  "rri": 1.1143,
+  "bright": 0.3176,
+  "sat": 0.1901,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-10-16": {
+  "clearness": 0.8708,
+  "var_n": 0.0392,
+  "rri": 1.1936,
+  "bright": 0.3078,
+  "sat": 0.1597,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-10-17": {
+  "clearness": 0.6203,
+  "var_n": 0.0301,
+  "rri": 1.2435,
+  "bright": 0.2994,
+  "sat": 0.1639,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-10-18": {
+  "clearness": 0.8532,
+  "var_n": 0.0064,
+  "rri": 1.0908,
+  "bright": 0.2943,
+  "sat": 0.1693,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-10-19": {
+  "clearness": 0.5836,
+  "var_n": 0.0606,
+  "rri": 1.5068,
+  "bright": 0.2991,
+  "sat": 0.1799,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-10-20": {
+  "clearness": 0.7648,
+  "var_n": 0.1323,
+  "rri": 1.6748,
+  "bright": 0.2948,
+  "sat": 0.1667,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-10-21": {
+  "clearness": 0.9693,
+  "var_n": 0.0072,
+  "rri": 1.2644,
+  "bright": 0.3153,
+  "sat": 0.2837,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-10-23": {
+  "clearness": 0.9218,
+  "var_n": 0.0152,
+  "rri": 1.2851,
+  "bright": 0.3232,
+  "sat": 0.2904,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-10-24": {
+  "clearness": 0.9153,
+  "var_n": 0.0071,
+  "rri": 1.1883,
+  "bright": 0.3201,
+  "sat": 0.2787,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-10-25": {
+  "clearness": 0.9229,
+  "var_n": 0.0047,
+  "rri": 1.1718,
+  "bright": 0.3223,
+  "sat": 0.2693,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-10-26": {
+  "clearness": 0.9212,
+  "var_n": 0.0032,
+  "rri": 1.1844,
+  "bright": 0.3223,
+  "sat": 0.2567,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-10-27": {
+  "clearness": 0.9272,
+  "var_n": 0.0047,
+  "rri": 1.1666,
+  "bright": 0.3147,
+  "sat": 0.2492,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-10-28": {
+  "clearness": 0.8862,
+  "var_n": 0.0066,
+  "rri": 1.1938,
+  "bright": 0.302,
+  "sat": 0.2186,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-10-29": {
+  "clearness": 0.5673,
+  "var_n": 0.0213,
+  "rri": 1.3854,
+  "bright": 0.297,
+  "sat": 0.1531,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-10-30": {
+  "clearness": 0.8172,
+  "var_n": 0.0889,
+  "rri": 1.4339,
+  "bright": 0.2831,
+  "sat": 0.2365,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-10-31": {
+  "clearness": 0.8969,
+  "var_n": 0.0068,
+  "rri": 1.1261,
+  "bright": 0.2987,
+  "sat": 0.2013,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-11-01": {
+  "clearness": 0.9158,
+  "var_n": 0.0048,
+  "rri": 1.1292,
+  "bright": 0.3093,
+  "sat": 0.2224,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-11-02": {
+  "clearness": 0.633,
+  "var_n": 0.051,
+  "rri": 1.2656,
+  "bright": 0.2892,
+  "sat": 0.1799,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-11-03": {
+  "clearness": 0.286,
+  "var_n": 0.0269,
+  "rri": 1.3762,
+  "bright": 0.2954,
+  "sat": 0.1419,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2017-11-04": {
+  "clearness": 0.3059,
+  "var_n": 0.037,
+  "rri": 1.4778,
+  "bright": 0.2936,
+  "sat": 0.1812,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2017-12-25": {
+  "clearness": 0.3813,
+  "var_n": 0.0202,
+  "rri": 1.2413,
+  "bright": 0.2922,
+  "sat": 0.1073,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2017-12-26": {
+  "clearness": 0.9242,
+  "var_n": 0.0076,
+  "rri": 1.0384,
+  "bright": 0.3097,
+  "sat": 0.2575,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-12-27": {
+  "clearness": 0.8191,
+  "var_n": 0.0299,
+  "rri": 1.1919,
+  "bright": 0.301,
+  "sat": 0.2301,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2017-12-28": {
+  "clearness": 0.885,
+  "var_n": 0.0181,
+  "rri": 1.0595,
+  "bright": 0.3086,
+  "sat": 0.2391,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2017-12-29": {
+  "clearness": 0.8269,
+  "var_n": 0.028,
+  "rri": 1.0965,
+  "bright": 0.2934,
+  "sat": 0.1935,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-01-05": {
+  "clearness": 0.2608,
+  "var_n": 0.015,
+  "rri": 0.8248,
+  "bright": 0.2958,
+  "sat": 0.1495,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2018-01-06": {
+  "clearness": 0.8517,
+  "var_n": 0.0649,
+  "rri": 1.1842,
+  "bright": 0.2886,
+  "sat": 0.2556,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-01-07": {
+  "clearness": 0.25,
+  "var_n": 0.0114,
+  "rri": 0.9753,
+  "bright": 0.2982,
+  "sat": 0.1383,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2018-01-15": {
+  "clearness": 0.5425,
+  "var_n": 0.0269,
+  "rri": 1.0574,
+  "bright": 0.289,
+  "sat": 0.1605,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-01-16": {
+  "clearness": 0.4077,
+  "var_n": 0.0429,
+  "rri": 1.3202,
+  "bright": 0.2961,
+  "sat": 0.1378,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2018-01-17": {
+  "clearness": 0.2317,
+  "var_n": 0.0131,
+  "rri": 0.7244,
+  "bright": 0.2953,
+  "sat": 0.152,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2018-01-18": {
+  "clearness": 0.3698,
+  "var_n": 0.0422,
+  "rri": 1.2153,
+  "bright": 0.2923,
+  "sat": 0.1518,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2018-01-19": {
+  "clearness": 0.5426,
+  "var_n": 0.0633,
+  "rri": 1.2882,
+  "bright": 0.2831,
+  "sat": 0.243,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-01-20": {
+  "clearness": 0.9597,
+  "var_n": 0.0083,
+  "rri": 1.0774,
+  "bright": 0.3018,
+  "sat": 0.3045,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-01-21": {
+  "clearness": 0.6893,
+  "var_n": 0.0375,
+  "rri": 1.261,
+  "bright": 0.2953,
+  "sat": 0.2126,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-01-22": {
+  "clearness": 0.4864,
+  "var_n": 0.0455,
+  "rri": 1.3689,
+  "bright": 0.2892,
+  "sat": 0.1932,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-01-23": {
+  "clearness": 0.7681,
+  "var_n": 0.0259,
+  "rri": 1.1852,
+  "bright": 0.278,
+  "sat": 0.2148,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-01-24": {
+  "clearness": 0.3394,
+  "var_n": 0.0291,
+  "rri": 1.2401,
+  "bright": 0.293,
+  "sat": 0.1404,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2018-01-26": {
+  "clearness": 0.8326,
+  "var_n": 0.0469,
+  "rri": 1.2584,
+  "bright": 0.2941,
+  "sat": 0.2567,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-01-27": {
+  "clearness": 0.9498,
+  "var_n": 0.0206,
+  "rri": 1.2098,
+  "bright": 0.2992,
+  "sat": 0.2363,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-01-28": {
+  "clearness": 0.9293,
+  "var_n": 0.0085,
+  "rri": 1.0669,
+  "bright": 0.3106,
+  "sat": 0.2752,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-01-29": {
+  "clearness": 0.3795,
+  "var_n": 0.0138,
+  "rri": 0.8476,
+  "bright": 0.2987,
+  "sat": 0.1454,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2018-01-30": {
+  "clearness": 0.9506,
+  "var_n": 0.0131,
+  "rri": 1.0532,
+  "bright": 0.3086,
+  "sat": 0.2283,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-01-31": {
+  "clearness": 0.9164,
+  "var_n": 0.0112,
+  "rri": 1.0458,
+  "bright": 0.3023,
+  "sat": 0.2382,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-02-01": {
+  "clearness": 0.878,
+  "var_n": 0.0328,
+  "rri": 1.1049,
+  "bright": 0.2898,
+  "sat": 0.2038,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-02-02": {
+  "clearness": 0.8243,
+  "var_n": 0.033,
+  "rri": 1.11,
+  "bright": 0.3003,
+  "sat": 0.2212,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-02-03": {
+  "clearness": 0.9131,
+  "var_n": 0.0051,
+  "rri": 1.0144,
+  "bright": 0.312,
+  "sat": 0.2779,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-02-04": {
+  "clearness": 0.7784,
+  "var_n": 0.0377,
+  "rri": 1.2219,
+  "bright": 0.3001,
+  "sat": 0.198,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-02-11": {
+  "clearness": 0.5826,
+  "var_n": 0.0464,
+  "rri": 1.1858,
+  "bright": 0.2886,
+  "sat": 0.2056,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-02-12": {
+  "clearness": 0.9832,
+  "var_n": 0.0258,
+  "rri": 1.1833,
+  "bright": 0.3071,
+  "sat": 0.2693,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-02-13": {
+  "clearness": 0.9726,
+  "var_n": 0.0049,
+  "rri": 1.0563,
+  "bright": 0.3163,
+  "sat": 0.2719,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-02-14": {
+  "clearness": 0.7475,
+  "var_n": 0.0326,
+  "rri": 1.3545,
+  "bright": 0.2974,
+  "sat": 0.2393,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-02-15": {
+  "clearness": 1.0031,
+  "var_n": 0.005,
+  "rri": 1.0804,
+  "bright": 0.3181,
+  "sat": 0.268,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-02-17": {
+  "clearness": 0.9799,
+  "var_n": 0.0051,
+  "rri": 1.0187,
+  "bright": 0.3186,
+  "sat": 0.2598,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-02-18": {
+  "clearness": 0.6485,
+  "var_n": 0.1297,
+  "rri": 1.4843,
+  "bright": 0.2831,
+  "sat": 0.2374,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-02-19": {
+  "clearness": 0.9735,
+  "var_n": 0.0495,
+  "rri": 1.3132,
+  "bright": 0.2986,
+  "sat": 0.26,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-02-20": {
+  "clearness": 0.8046,
+  "var_n": 0.0251,
+  "rri": 1.2875,
+  "bright": 0.2964,
+  "sat": 0.2141,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-02-21": {
+  "clearness": 0.9865,
+  "var_n": 0.0061,
+  "rri": 1.0707,
+  "bright": 0.3062,
+  "sat": 0.2729,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-02-22": {
+  "clearness": 0.7639,
+  "var_n": 0.0942,
+  "rri": 1.4436,
+  "bright": 0.2931,
+  "sat": 0.2321,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-02-28": {
+  "clearness": 0.5102,
+  "var_n": 0.0332,
+  "rri": 1.3086,
+  "bright": 0.2935,
+  "sat": 0.1535,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-03-01": {
+  "clearness": 0.6683,
+  "var_n": 0.1235,
+  "rri": 1.4138,
+  "bright": 0.281,
+  "sat": 0.1863,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-03-02": {
+  "clearness": 0.585,
+  "var_n": 0.0601,
+  "rri": 1.4796,
+  "bright": 0.2923,
+  "sat": 0.1625,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-03-03": {
+  "clearness": 0.7224,
+  "var_n": 0.1127,
+  "rri": 1.6399,
+  "bright": 0.2856,
+  "sat": 0.2106,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-03-04": {
+  "clearness": 1.0131,
+  "var_n": 0.0201,
+  "rri": 1.1982,
+  "bright": 0.3096,
+  "sat": 0.2786,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-03-05": {
+  "clearness": 1.017,
+  "var_n": 0.008,
+  "rri": 1.0931,
+  "bright": 0.3121,
+  "sat": 0.3063,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-03-06": {
+  "clearness": 0.8948,
+  "var_n": 0.0207,
+  "rri": 1.2199,
+  "bright": 0.2882,
+  "sat": 0.2171,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-03-07": {
+  "clearness": 0.7434,
+  "var_n": 0.0397,
+  "rri": 1.4129,
+  "bright": 0.291,
+  "sat": 0.2221,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-03-08": {
+  "clearness": 0.7839,
+  "var_n": 0.0999,
+  "rri": 1.3496,
+  "bright": 0.2842,
+  "sat": 0.2141,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-03-10": {
+  "clearness": 0.1888,
+  "var_n": 0.0048,
+  "rri": 0.4239,
+  "bright": 0.2993,
+  "sat": 0.1355,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2018-05-08": {
+  "clearness": 0.9797,
+  "var_n": 0.0187,
+  "rri": 8.4418,
+  "bright": 0.3177,
+  "sat": 0.2435,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-05-09": {
+  "clearness": 0.9911,
+  "var_n": 0.0401,
+  "rri": 8.3381,
+  "bright": 0.3102,
+  "sat": 0.2504,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-05-10": {
+  "clearness": 0.5892,
+  "var_n": 0.0064,
+  "rri": 0.6573,
+  "bright": 0.3241,
+  "sat": 0.2452,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-05-11": {
+  "clearness": 0.9743,
+  "var_n": 0.0146,
+  "rri": 8.6881,
+  "bright": 0.311,
+  "sat": 0.2015,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-05-12": {
+  "clearness": 0.9953,
+  "var_n": 0.0118,
+  "rri": 7.9805,
+  "bright": 0.3201,
+  "sat": 0.2506,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-05-13": {
+  "clearness": 0.9833,
+  "var_n": 0.0174,
+  "rri": 7.6018,
+  "bright": 0.2988,
+  "sat": 0.2132,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-05-14": {
+  "clearness": 0.9563,
+  "var_n": 0.027,
+  "rri": 7.2517,
+  "bright": 0.2992,
+  "sat": 0.2,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-05-15": {
+  "clearness": 0.8389,
+  "var_n": 0.0413,
+  "rri": 7.9945,
+  "bright": 0.2895,
+  "sat": 0.1861,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-05-16": {
+  "clearness": 0.438,
+  "var_n": 0.0503,
+  "rri": 7.8614,
+  "bright": 0.2959,
+  "sat": 0.1796,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2018-05-17": {
+  "clearness": 0.9037,
+  "var_n": 0.0308,
+  "rri": 7.6473,
+  "bright": 0.2936,
+  "sat": 0.2235,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-05-18": {
+  "clearness": 0.8565,
+  "var_n": 0.0201,
+  "rri": 7.889,
+  "bright": 0.2926,
+  "sat": 0.1802,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-05-19": {
+  "clearness": 0.9478,
+  "var_n": 0.0445,
+  "rri": 4.7323,
+  "bright": 0.2854,
+  "sat": 0.1867,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-05-20": {
+  "clearness": 0.8044,
+  "var_n": 0.0565,
+  "rri": 4.0966,
+  "bright": 0.2875,
+  "sat": 0.158,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-05-21": {
+  "clearness": 0.9881,
+  "var_n": 0.0105,
+  "rri": 7.3389,
+  "bright": 0.3149,
+  "sat": 0.2118,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-05-22": {
+  "clearness": 0.9289,
+  "var_n": 0.0238,
+  "rri": 8.8155,
+  "bright": 0.3109,
+  "sat": 0.1796,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-05-23": {
+  "clearness": 0.7441,
+  "var_n": 0.0523,
+  "rri": 8.3108,
+  "bright": 0.2959,
+  "sat": 0.1677,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-05-24": {
+  "clearness": 0.2928,
+  "var_n": 0.01,
+  "rri": 0.7157,
+  "bright": 0.3061,
+  "sat": 0.1366,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2018-05-25": {
+  "clearness": 0.8026,
+  "var_n": 0.0631,
+  "rri": 8.1145,
+  "bright": 0.2829,
+  "sat": 0.1773,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-05-26": {
+  "clearness": 0.6723,
+  "var_n": 0.0327,
+  "rri": 7.5649,
+  "bright": 0.2953,
+  "sat": 0.1886,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-05-27": {
+  "clearness": 0.9508,
+  "var_n": 0.012,
+  "rri": 8.0767,
+  "bright": 0.3134,
+  "sat": 0.2232,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-05-28": {
+  "clearness": 0.9233,
+  "var_n": 0.0106,
+  "rri": 7.6638,
+  "bright": 0.3197,
+  "sat": 0.24,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-05-29": {
+  "clearness": 0.9338,
+  "var_n": 0.0109,
+  "rri": 7.864,
+  "bright": 0.3181,
+  "sat": 0.2106,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-05-30": {
+  "clearness": 0.9623,
+  "var_n": 0.0367,
+  "rri": 6.9494,
+  "bright": 0.2943,
+  "sat": 0.1829,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-05-31": {
+  "clearness": 0.7974,
+  "var_n": 0.1568,
+  "rri": 7.8523,
+  "bright": 0.2808,
+  "sat": 0.1758,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-06-01": {
+  "clearness": 0.9606,
+  "var_n": 0.0116,
+  "rri": 8.3189,
+  "bright": 0.3226,
+  "sat": 0.2387,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-06-02": {
+  "clearness": 0.9239,
+  "var_n": 0.0108,
+  "rri": 7.796,
+  "bright": 0.3234,
+  "sat": 0.2472,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-06-03": {
+  "clearness": 0.9313,
+  "var_n": 0.0139,
+  "rri": 8.015,
+  "bright": 0.3197,
+  "sat": 0.2171,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-06-04": {
+  "clearness": 0.9787,
+  "var_n": 0.0159,
+  "rri": 9.2353,
+  "bright": 0.3251,
+  "sat": 0.2356,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-06-05": {
+  "clearness": 1.02,
+  "var_n": 0.0146,
+  "rri": 8.1031,
+  "bright": 0.3154,
+  "sat": 0.228,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-06-06": {
+  "clearness": 0.9546,
+  "var_n": 0.0824,
+  "rri": 3.0354,
+  "bright": 0.2942,
+  "sat": 0.1903,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-06-07": {
+  "clearness": 0.97,
+  "var_n": 0.0152,
+  "rri": 7.2738,
+  "bright": 0.298,
+  "sat": 0.1818,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-06-08": {
+  "clearness": 0.9567,
+  "var_n": 0.0118,
+  "rri": 8.626,
+  "bright": 0.3166,
+  "sat": 0.2101,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-06-09": {
+  "clearness": 0.9043,
+  "var_n": 0.0379,
+  "rri": 6.988,
+  "bright": 0.2975,
+  "sat": 0.1531,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-06-10": {
+  "clearness": 0.9757,
+  "var_n": 0.0127,
+  "rri": 8.4397,
+  "bright": 0.3166,
+  "sat": 0.2227,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-06-11": {
+  "clearness": 0.9485,
+  "var_n": 0.0113,
+  "rri": 8.0978,
+  "bright": 0.3227,
+  "sat": 0.2325,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-06-14": {
+  "clearness": 0.9757,
+  "var_n": 0.0111,
+  "rri": 8.0263,
+  "bright": 0.3207,
+  "sat": 0.2166,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-06-15": {
+  "clearness": 1.0029,
+  "var_n": 0.0114,
+  "rri": 8.2653,
+  "bright": 0.321,
+  "sat": 0.2445,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-06-16": {
+  "clearness": 0.9662,
+  "var_n": 0.0111,
+  "rri": 8.0389,
+  "bright": 0.32,
+  "sat": 0.2302,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-06-17": {
+  "clearness": 0.8456,
+  "var_n": 0.0578,
+  "rri": 7.7515,
+  "bright": 0.2889,
+  "sat": 0.1819,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-06-18": {
+  "clearness": 0.9304,
+  "var_n": 0.024,
+  "rri": 7.9221,
+  "bright": 0.3028,
+  "sat": 0.1842,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-06-19": {
+  "clearness": 0.9375,
+  "var_n": 0.0137,
+  "rri": 7.8894,
+  "bright": 0.2964,
+  "sat": 0.1921,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-06-20": {
+  "clearness": 0.9621,
+  "var_n": 0.0137,
+  "rri": 8.4259,
+  "bright": 0.3065,
+  "sat": 0.2091,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-06-21": {
+  "clearness": 0.9614,
+  "var_n": 0.0135,
+  "rri": 8.0442,
+  "bright": 0.3049,
+  "sat": 0.2116,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-06-22": {
+  "clearness": 0.9259,
+  "var_n": 0.0109,
+  "rri": 7.8691,
+  "bright": 0.3232,
+  "sat": 0.2277,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-06-24": {
+  "clearness": 0.9258,
+  "var_n": 0.0113,
+  "rri": 7.7906,
+  "bright": 0.3091,
+  "sat": 0.2021,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-06-25": {
+  "clearness": 0.9548,
+  "var_n": 0.0145,
+  "rri": 8.2219,
+  "bright": 0.302,
+  "sat": 0.2488,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-06-26": {
+  "clearness": 0.9513,
+  "var_n": 0.0106,
+  "rri": 7.5301,
+  "bright": 0.3216,
+  "sat": 0.2244,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-06-27": {
+  "clearness": 0.957,
+  "var_n": 0.0137,
+  "rri": 8.5722,
+  "bright": 0.3029,
+  "sat": 0.2009,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-06-28": {
+  "clearness": 0.9419,
+  "var_n": 0.0117,
+  "rri": 8.3655,
+  "bright": 0.3193,
+  "sat": 0.2287,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-06-29": {
+  "clearness": 0.91,
+  "var_n": 0.0118,
+  "rri": 8.6087,
+  "bright": 0.3195,
+  "sat": 0.214,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-06-30": {
+  "clearness": 0.8897,
+  "var_n": 0.0099,
+  "rri": 7.1537,
+  "bright": 0.3222,
+  "sat": 0.2229,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-07-01": {
+  "clearness": 0.8899,
+  "var_n": 0.0141,
+  "rri": 7.1282,
+  "bright": 0.3065,
+  "sat": 0.1716,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-07-02": {
+  "clearness": 0.7629,
+  "var_n": 0.0206,
+  "rri": 9.485,
+  "bright": 0.2931,
+  "sat": 0.1452,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-07-03": {
+  "clearness": 0.9076,
+  "var_n": 0.0155,
+  "rri": 8.031,
+  "bright": 0.3147,
+  "sat": 0.2111,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-07-04": {
+  "clearness": 0.9751,
+  "var_n": 0.0159,
+  "rri": 8.2189,
+  "bright": 0.3112,
+  "sat": 0.2059,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-07-05": {
+  "clearness": 0.9057,
+  "var_n": 0.0321,
+  "rri": 5.0302,
+  "bright": 0.2963,
+  "sat": 0.1878,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-07-06": {
+  "clearness": 0.7993,
+  "var_n": 0.0431,
+  "rri": 8.9945,
+  "bright": 0.3099,
+  "sat": 0.1759,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-07-07": {
+  "clearness": 0.9012,
+  "var_n": 0.0304,
+  "rri": 8.4556,
+  "bright": 0.3182,
+  "sat": 0.2247,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-07-08": {
+  "clearness": 0.9167,
+  "var_n": 0.0122,
+  "rri": 8.6805,
+  "bright": 0.3231,
+  "sat": 0.2312,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-07-09": {
+  "clearness": 0.8986,
+  "var_n": 0.0121,
+  "rri": 8.7213,
+  "bright": 0.3215,
+  "sat": 0.2249,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-07-10": {
+  "clearness": 0.9057,
+  "var_n": 0.0129,
+  "rri": 9.3339,
+  "bright": 0.3217,
+  "sat": 0.2336,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-07-11": {
+  "clearness": 0.9193,
+  "var_n": 0.0134,
+  "rri": 8.1754,
+  "bright": 0.3101,
+  "sat": 0.2077,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-07-12": {
+  "clearness": 0.82,
+  "var_n": 0.043,
+  "rri": 7.4195,
+  "bright": 0.2909,
+  "sat": 0.1776,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-07-13": {
+  "clearness": 0.8322,
+  "var_n": 0.0356,
+  "rri": 7.7401,
+  "bright": 0.2947,
+  "sat": 0.176,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-07-14": {
+  "clearness": 0.8756,
+  "var_n": 0.0231,
+  "rri": 8.6708,
+  "bright": 0.2949,
+  "sat": 0.19,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-07-15": {
+  "clearness": 0.9199,
+  "var_n": 0.0169,
+  "rri": 9.1954,
+  "bright": 0.3017,
+  "sat": 0.2002,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-07-16": {
+  "clearness": 0.9126,
+  "var_n": 0.0131,
+  "rri": 8.1786,
+  "bright": 0.3038,
+  "sat": 0.1933,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-07-17": {
+  "clearness": 0.9203,
+  "var_n": 0.0148,
+  "rri": 8.7046,
+  "bright": 0.2952,
+  "sat": 0.1897,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-07-18": {
+  "clearness": 0.8947,
+  "var_n": 0.0221,
+  "rri": 8.6434,
+  "bright": 0.2995,
+  "sat": 0.1711,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-07-19": {
+  "clearness": 0.8938,
+  "var_n": 0.0197,
+  "rri": 8.5933,
+  "bright": 0.2986,
+  "sat": 0.1709,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-07-20": {
+  "clearness": 0.8498,
+  "var_n": 0.0236,
+  "rri": 7.1122,
+  "bright": 0.303,
+  "sat": 0.1646,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-07-21": {
+  "clearness": 0.8726,
+  "var_n": 0.0202,
+  "rri": 7.3724,
+  "bright": 0.2992,
+  "sat": 0.1579,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-07-22": {
+  "clearness": 0.873,
+  "var_n": 0.0153,
+  "rri": 7.7516,
+  "bright": 0.294,
+  "sat": 0.185,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-07-23": {
+  "clearness": 0.8954,
+  "var_n": 0.0156,
+  "rri": 6.2933,
+  "bright": 0.3077,
+  "sat": 0.1808,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-07-24": {
+  "clearness": 0.8919,
+  "var_n": 0.0122,
+  "rri": 7.675,
+  "bright": 0.3153,
+  "sat": 0.1895,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-07-25": {
+  "clearness": 0.8848,
+  "var_n": 0.0269,
+  "rri": 4.8335,
+  "bright": 0.3074,
+  "sat": 0.1864,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-07-26": {
+  "clearness": 0.9125,
+  "var_n": 0.0139,
+  "rri": 8.5395,
+  "bright": 0.31,
+  "sat": 0.218,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-07-27": {
+  "clearness": 0.9152,
+  "var_n": 0.0165,
+  "rri": 8.9404,
+  "bright": 0.2999,
+  "sat": 0.1825,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-07-28": {
+  "clearness": 0.8717,
+  "var_n": 0.0163,
+  "rri": 8.0448,
+  "bright": 0.3006,
+  "sat": 0.1614,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-07-29": {
+  "clearness": 0.8728,
+  "var_n": 0.0423,
+  "rri": 8.7322,
+  "bright": 0.2964,
+  "sat": 0.1584,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-07-30": {
+  "clearness": 0.8929,
+  "var_n": 0.0199,
+  "rri": 8.7839,
+  "bright": 0.2981,
+  "sat": 0.1768,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-07-31": {
+  "clearness": 0.8841,
+  "var_n": 0.0159,
+  "rri": 7.8233,
+  "bright": 0.2912,
+  "sat": 0.1767,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-08-01": {
+  "clearness": 0.8993,
+  "var_n": 0.0139,
+  "rri": 8.1275,
+  "bright": 0.2982,
+  "sat": 0.1824,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-08-02": {
+  "clearness": 0.9095,
+  "var_n": 0.0141,
+  "rri": 8.5586,
+  "bright": 0.3098,
+  "sat": 0.1928,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-08-03": {
+  "clearness": 0.8534,
+  "var_n": 0.0124,
+  "rri": 7.7804,
+  "bright": 0.304,
+  "sat": 0.1801,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-08-04": {
+  "clearness": 0.8854,
+  "var_n": 0.0118,
+  "rri": 8.1512,
+  "bright": 0.3154,
+  "sat": 0.2113,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-08-05": {
+  "clearness": 0.9028,
+  "var_n": 0.0125,
+  "rri": 8.8447,
+  "bright": 0.321,
+  "sat": 0.2201,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-08-06": {
+  "clearness": 0.8777,
+  "var_n": 0.0109,
+  "rri": 7.2439,
+  "bright": 0.3102,
+  "sat": 0.2343,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-08-07": {
+  "clearness": 0.7585,
+  "var_n": 0.0108,
+  "rri": 6.2386,
+  "bright": 0.2942,
+  "sat": 0.1717,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-08-08": {
+  "clearness": 0.8274,
+  "var_n": 0.0115,
+  "rri": 6.8773,
+  "bright": 0.2935,
+  "sat": 0.1437,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-08-09": {
+  "clearness": 0.8526,
+  "var_n": 0.0108,
+  "rri": 6.4379,
+  "bright": 0.2972,
+  "sat": 0.1437,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-08-10": {
+  "clearness": 0.8493,
+  "var_n": 0.0102,
+  "rri": 6.7437,
+  "bright": 0.3115,
+  "sat": 0.1707,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-08-11": {
+  "clearness": 0.8308,
+  "var_n": 0.0161,
+  "rri": 7.4406,
+  "bright": 0.2995,
+  "sat": 0.1668,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-08-12": {
+  "clearness": 0.8371,
+  "var_n": 0.0142,
+  "rri": 6.7093,
+  "bright": 0.3078,
+  "sat": 0.1621,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-08-13": {
+  "clearness": 0.8608,
+  "var_n": 0.0115,
+  "rri": 7.3661,
+  "bright": 0.3002,
+  "sat": 0.1519,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-08-14": {
+  "clearness": 0.838,
+  "var_n": 0.0337,
+  "rri": 7.3763,
+  "bright": 0.2923,
+  "sat": 0.1705,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-08-15": {
+  "clearness": 0.7866,
+  "var_n": 0.0146,
+  "rri": 6.9319,
+  "bright": 0.2958,
+  "sat": 0.1471,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-08-16": {
+  "clearness": 0.8379,
+  "var_n": 0.0151,
+  "rri": 7.0602,
+  "bright": 0.2921,
+  "sat": 0.153,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-08-17": {
+  "clearness": 0.8482,
+  "var_n": 0.0114,
+  "rri": 6.9285,
+  "bright": 0.3,
+  "sat": 0.1779,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-08-18": {
+  "clearness": 0.8484,
+  "var_n": 0.01,
+  "rri": 6.5272,
+  "bright": 0.3013,
+  "sat": 0.1679,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-08-19": {
+  "clearness": 0.8659,
+  "var_n": 0.016,
+  "rri": 7.5171,
+  "bright": 0.2918,
+  "sat": 0.1491,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-08-20": {
+  "clearness": 0.8454,
+  "var_n": 0.0137,
+  "rri": 4.3636,
+  "bright": 0.2959,
+  "sat": 0.1561,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-08-21": {
+  "clearness": 0.7136,
+  "var_n": 0.0184,
+  "rri": 5.2841,
+  "bright": 0.2949,
+  "sat": 0.1399,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-09-18": {
+  "clearness": 0.8866,
+  "var_n": 0.0075,
+  "rri": 4.6127,
+  "bright": 0.3144,
+  "sat": 0.2122,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-09-19": {
+  "clearness": 0.869,
+  "var_n": 0.0069,
+  "rri": 4.138,
+  "bright": 0.3092,
+  "sat": 0.201,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-09-20": {
+  "clearness": 0.8459,
+  "var_n": 0.0069,
+  "rri": 4.1124,
+  "bright": 0.3151,
+  "sat": 0.1971,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-09-21": {
+  "clearness": 0.8527,
+  "var_n": 0.0059,
+  "rri": 3.6277,
+  "bright": 0.3132,
+  "sat": 0.1913,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-09-22": {
+  "clearness": 0.8523,
+  "var_n": 0.0068,
+  "rri": 2.516,
+  "bright": 0.2898,
+  "sat": 0.1706,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-09-23": {
+  "clearness": 0.8674,
+  "var_n": 0.0085,
+  "rri": 4.391,
+  "bright": 0.3131,
+  "sat": 0.2143,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-09-24": {
+  "clearness": 0.8636,
+  "var_n": 0.0063,
+  "rri": 3.6445,
+  "bright": 0.3123,
+  "sat": 0.2002,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-10-01": {
+  "clearness": 0.474,
+  "var_n": 0.0314,
+  "rri": 1.5807,
+  "bright": 0.2869,
+  "sat": 0.155,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-10-02": {
+  "clearness": 0.5834,
+  "var_n": 0.0459,
+  "rri": 2.1291,
+  "bright": 0.284,
+  "sat": 0.1799,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-10-03": {
+  "clearness": 0.4685,
+  "var_n": 0.0557,
+  "rri": 2.3228,
+  "bright": 0.2794,
+  "sat": 0.1973,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-10-05": {
+  "clearness": 0.8963,
+  "var_n": 0.0223,
+  "rri": 1.9098,
+  "bright": 0.3001,
+  "sat": 0.2365,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-10-06": {
+  "clearness": 0.9344,
+  "var_n": 0.02,
+  "rri": 1.7871,
+  "bright": 0.3113,
+  "sat": 0.2513,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-10-07": {
+  "clearness": 0.9219,
+  "var_n": 0.0065,
+  "rri": 1.693,
+  "bright": 0.3081,
+  "sat": 0.226,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-10-08": {
+  "clearness": 0.9027,
+  "var_n": 0.0036,
+  "rri": 1.2955,
+  "bright": 0.3122,
+  "sat": 0.2372,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-10-09": {
+  "clearness": 0.8667,
+  "var_n": 0.0244,
+  "rri": 1.4102,
+  "bright": 0.3031,
+  "sat": 0.2213,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-10-10": {
+  "clearness": 0.9126,
+  "var_n": 0.0135,
+  "rri": 1.3871,
+  "bright": 0.3061,
+  "sat": 0.231,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-10-11": {
+  "clearness": 0.868,
+  "var_n": 0.0086,
+  "rri": 1.1096,
+  "bright": 0.2785,
+  "sat": 0.1762,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-10-12": {
+  "clearness": 0.8823,
+  "var_n": 0.0043,
+  "rri": 1.1524,
+  "bright": 0.3087,
+  "sat": 0.2178,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-10-13": {
+  "clearness": 0.9141,
+  "var_n": 0.0044,
+  "rri": 1.231,
+  "bright": 0.3142,
+  "sat": 0.2302,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-10-14": {
+  "clearness": 0.9087,
+  "var_n": 0.006,
+  "rri": 1.2173,
+  "bright": 0.2913,
+  "sat": 0.195,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-10-15": {
+  "clearness": 0.9196,
+  "var_n": 0.0045,
+  "rri": 1.2203,
+  "bright": 0.3148,
+  "sat": 0.2285,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-10-17": {
+  "clearness": 0.8778,
+  "var_n": 0.0073,
+  "rri": 1.1506,
+  "bright": 0.2849,
+  "sat": 0.1843,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-10-18": {
+  "clearness": 0.8648,
+  "var_n": 0.0051,
+  "rri": 1.1417,
+  "bright": 0.2897,
+  "sat": 0.1738,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-10-19": {
+  "clearness": 0.8862,
+  "var_n": 0.0044,
+  "rri": 1.1096,
+  "bright": 0.3065,
+  "sat": 0.2149,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-10-20": {
+  "clearness": 0.8789,
+  "var_n": 0.0049,
+  "rri": 1.1016,
+  "bright": 0.2913,
+  "sat": 0.2015,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-10-21": {
+  "clearness": 0.7266,
+  "var_n": 0.0084,
+  "rri": 1.1076,
+  "bright": 0.2882,
+  "sat": 0.1648,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-10-22": {
+  "clearness": 0.7627,
+  "var_n": 0.0059,
+  "rri": 1.123,
+  "bright": 0.2877,
+  "sat": 0.1657,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-10-23": {
+  "clearness": 0.7986,
+  "var_n": 0.0313,
+  "rri": 1.3468,
+  "bright": 0.2906,
+  "sat": 0.178,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-10-24": {
+  "clearness": 0.865,
+  "var_n": 0.0135,
+  "rri": 1.2129,
+  "bright": 0.3097,
+  "sat": 0.2472,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-10-25": {
+  "clearness": 0.7875,
+  "var_n": 0.0062,
+  "rri": 1.0789,
+  "bright": 0.2914,
+  "sat": 0.1799,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-10-26": {
+  "clearness": 0.7988,
+  "var_n": 0.0293,
+  "rri": 1.1572,
+  "bright": 0.2928,
+  "sat": 0.1878,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-10-27": {
+  "clearness": 0.8361,
+  "var_n": 0.0244,
+  "rri": 1.1944,
+  "bright": 0.3023,
+  "sat": 0.1843,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-10-28": {
+  "clearness": 0.7496,
+  "var_n": 0.0499,
+  "rri": 1.2903,
+  "bright": 0.2828,
+  "sat": 0.2207,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-10-29": {
+  "clearness": 0.6695,
+  "var_n": 0.0207,
+  "rri": 1.2041,
+  "bright": 0.2958,
+  "sat": 0.1996,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2018-10-30": {
+  "clearness": 0.894,
+  "var_n": 0.0126,
+  "rri": 1.1884,
+  "bright": 0.3052,
+  "sat": 0.218,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-10-31": {
+  "clearness": 0.7829,
+  "var_n": 0.0181,
+  "rri": 1.0556,
+  "bright": 0.299,
+  "sat": 0.1827,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-11-01": {
+  "clearness": 0.7975,
+  "var_n": 0.0161,
+  "rri": 1.1186,
+  "bright": 0.2968,
+  "sat": 0.1865,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-11-02": {
+  "clearness": 0.8523,
+  "var_n": 0.0138,
+  "rri": 1.1051,
+  "bright": 0.2998,
+  "sat": 0.2106,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2018-11-03": {
+  "clearness": 0.7926,
+  "var_n": 0.0251,
+  "rri": 1.3747,
+  "bright": 0.3054,
+  "sat": 0.1896,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-01-24": {
+  "clearness": 0.9346,
+  "var_n": 0.0059,
+  "rri": 1.0032,
+  "bright": 0.2946,
+  "sat": 0.2437,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-01-26": {
+  "clearness": 0.5908,
+  "var_n": 0.0189,
+  "rri": 0.9333,
+  "bright": 0.2873,
+  "sat": 0.0987,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-01-27": {
+  "clearness": 0.7796,
+  "var_n": 0.0244,
+  "rri": 1.1064,
+  "bright": 0.2816,
+  "sat": 0.142,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-01-31": {
+  "clearness": 0.3976,
+  "var_n": 0.0404,
+  "rri": 1.332,
+  "bright": 0.276,
+  "sat": 0.1218,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2019-02-01": {
+  "clearness": 0.1029,
+  "var_n": 0.0053,
+  "rri": 0.2678,
+  "bright": 0.2852,
+  "sat": 0.1011,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2019-02-02": {
+  "clearness": 0.435,
+  "var_n": 0.0619,
+  "rri": 1.3696,
+  "bright": 0.2829,
+  "sat": 0.0987,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2019-02-03": {
+  "clearness": 0.6143,
+  "var_n": 0.0583,
+  "rri": 1.4108,
+  "bright": 0.2689,
+  "sat": 0.1269,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-02-04": {
+  "clearness": 0.4119,
+  "var_n": 0.0582,
+  "rri": 1.3627,
+  "bright": 0.2713,
+  "sat": 0.135,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2019-02-05": {
+  "clearness": 0.9196,
+  "var_n": 0.071,
+  "rri": 1.2146,
+  "bright": 0.2563,
+  "sat": 0.1653,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-02-06": {
+  "clearness": 0.5777,
+  "var_n": 0.0367,
+  "rri": 1.2878,
+  "bright": 0.2613,
+  "sat": 0.1433,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-05-17": {
+  "clearness": 0.6307,
+  "var_n": 0.0375,
+  "rri": 4.5518,
+  "bright": 0.267,
+  "sat": 0.3284,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-05-18": {
+  "clearness": 0.2031,
+  "var_n": 0.0081,
+  "rri": 0.5939,
+  "bright": 0.2794,
+  "sat": 0.3065,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2019-05-21": {
+  "clearness": 0.4575,
+  "var_n": 0.0667,
+  "rri": 1.3098,
+  "bright": 0.2723,
+  "sat": 0.2359,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-05-22": {
+  "clearness": 1.0313,
+  "var_n": 0.0888,
+  "rri": 7.1169,
+  "bright": 0.2835,
+  "sat": 0.3462,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-05-23": {
+  "clearness": 0.9578,
+  "var_n": 0.0239,
+  "rri": 7.6063,
+  "bright": 0.2762,
+  "sat": 0.3328,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-05-24": {
+  "clearness": 0.9392,
+  "var_n": 0.0375,
+  "rri": 7.7592,
+  "bright": 0.274,
+  "sat": 0.3465,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-05-25": {
+  "clearness": 1.0074,
+  "var_n": 0.0131,
+  "rri": 6.4012,
+  "bright": 0.2762,
+  "sat": 0.3864,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-05-26": {
+  "clearness": 0.5752,
+  "var_n": 0.0592,
+  "rri": 4.1753,
+  "bright": 0.2743,
+  "sat": 0.252,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-05-28": {
+  "clearness": 0.9575,
+  "var_n": 0.0158,
+  "rri": 8.0056,
+  "bright": 0.2714,
+  "sat": 0.4097,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-05-29": {
+  "clearness": 0.8026,
+  "var_n": 0.0129,
+  "rri": 1.0001,
+  "bright": 0.2713,
+  "sat": 0.3524,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-05-31": {
+  "clearness": 1.2099,
+  "var_n": 0.0205,
+  "rri": 4.9839,
+  "bright": 0.2794,
+  "sat": 0.3985,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-06-01": {
+  "clearness": 0.9265,
+  "var_n": 0.0118,
+  "rri": 7.8246,
+  "bright": 0.273,
+  "sat": 0.3936,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-06-02": {
+  "clearness": 0.92,
+  "var_n": 0.0146,
+  "rri": 7.9256,
+  "bright": 0.2763,
+  "sat": 0.3843,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-06-03": {
+  "clearness": 0.889,
+  "var_n": 0.0117,
+  "rri": 7.4376,
+  "bright": 0.2731,
+  "sat": 0.337,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-06-04": {
+  "clearness": 0.9128,
+  "var_n": 0.0105,
+  "rri": 7.4768,
+  "bright": 0.2841,
+  "sat": 0.4112,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-06-05": {
+  "clearness": 0.9085,
+  "var_n": 0.0158,
+  "rri": 5.8599,
+  "bright": 0.2868,
+  "sat": 0.373,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-06-06": {
+  "clearness": 0.971,
+  "var_n": 0.0128,
+  "rri": 7.6757,
+  "bright": 0.2901,
+  "sat": 0.4545,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-06-07": {
+  "clearness": 0.9723,
+  "var_n": 0.0137,
+  "rri": 7.3661,
+  "bright": 0.2797,
+  "sat": 0.3904,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-06-08": {
+  "clearness": 0.9464,
+  "var_n": 0.0156,
+  "rri": 8.6093,
+  "bright": 0.2862,
+  "sat": 0.4445,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-06-09": {
+  "clearness": 0.8883,
+  "var_n": 0.0232,
+  "rri": 7.9061,
+  "bright": 0.2823,
+  "sat": 0.3218,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-06-10": {
+  "clearness": 0.8454,
+  "var_n": 0.0258,
+  "rri": 6.6975,
+  "bright": 0.2767,
+  "sat": 0.3193,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-06-11": {
+  "clearness": 0.8109,
+  "var_n": 0.0358,
+  "rri": 4.0956,
+  "bright": 0.286,
+  "sat": 0.3555,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-06-12": {
+  "clearness": 0.8836,
+  "var_n": 0.0116,
+  "rri": 6.433,
+  "bright": 0.2824,
+  "sat": 0.3805,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-06-13": {
+  "clearness": 0.911,
+  "var_n": 0.0192,
+  "rri": 7.9149,
+  "bright": 0.2753,
+  "sat": 0.3765,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-06-14": {
+  "clearness": 0.9281,
+  "var_n": 0.0175,
+  "rri": 7.8944,
+  "bright": 0.2735,
+  "sat": 0.3916,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-06-15": {
+  "clearness": 0.8745,
+  "var_n": 0.0373,
+  "rri": 6.8519,
+  "bright": 0.2826,
+  "sat": 0.3069,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-06-16": {
+  "clearness": 0.8908,
+  "var_n": 0.0135,
+  "rri": 8.047,
+  "bright": 0.2748,
+  "sat": 0.3452,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-06-17": {
+  "clearness": 0.901,
+  "var_n": 0.0113,
+  "rri": 7.7123,
+  "bright": 0.2714,
+  "sat": 0.3826,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-06-18": {
+  "clearness": 0.9118,
+  "var_n": 0.0113,
+  "rri": 7.6004,
+  "bright": 0.2744,
+  "sat": 0.3917,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-06-19": {
+  "clearness": 0.8941,
+  "var_n": 0.0124,
+  "rri": 7.6243,
+  "bright": 0.2759,
+  "sat": 0.3433,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-06-20": {
+  "clearness": 0.9226,
+  "var_n": 0.0114,
+  "rri": 7.7956,
+  "bright": 0.2872,
+  "sat": 0.4411,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-06-21": {
+  "clearness": 0.9236,
+  "var_n": 0.0129,
+  "rri": 7.8591,
+  "bright": 0.276,
+  "sat": 0.339,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-06-22": {
+  "clearness": 0.903,
+  "var_n": 0.0109,
+  "rri": 7.7592,
+  "bright": 0.2834,
+  "sat": 0.4115,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-06-24": {
+  "clearness": 0.8745,
+  "var_n": 0.0408,
+  "rri": 8.3277,
+  "bright": 0.277,
+  "sat": 0.275,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-06-25": {
+  "clearness": 0.9082,
+  "var_n": 0.0161,
+  "rri": 8.1325,
+  "bright": 0.2841,
+  "sat": 0.3968,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-06-26": {
+  "clearness": 0.9181,
+  "var_n": 0.0245,
+  "rri": 8.4355,
+  "bright": 0.2801,
+  "sat": 0.4416,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-06-27": {
+  "clearness": 0.764,
+  "var_n": 0.0435,
+  "rri": 2.2955,
+  "bright": 0.2741,
+  "sat": 0.3352,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-06-29": {
+  "clearness": 0.8976,
+  "var_n": 0.0427,
+  "rri": 9.236,
+  "bright": 0.289,
+  "sat": 0.3665,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-06-30": {
+  "clearness": 0.9246,
+  "var_n": 0.0123,
+  "rri": 8.9006,
+  "bright": 0.286,
+  "sat": 0.418,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-07-01": {
+  "clearness": 0.9056,
+  "var_n": 0.026,
+  "rri": 8.7353,
+  "bright": 0.2733,
+  "sat": 0.3615,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-07-02": {
+  "clearness": 0.9112,
+  "var_n": 0.02,
+  "rri": 6.2261,
+  "bright": 0.2883,
+  "sat": 0.4017,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-07-03": {
+  "clearness": 0.9214,
+  "var_n": 0.0129,
+  "rri": 9.4048,
+  "bright": 0.2871,
+  "sat": 0.4216,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-07-04": {
+  "clearness": 0.9162,
+  "var_n": 0.0122,
+  "rri": 7.9138,
+  "bright": 0.2802,
+  "sat": 0.4063,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-07-05": {
+  "clearness": 0.8976,
+  "var_n": 0.013,
+  "rri": 7.748,
+  "bright": 0.2697,
+  "sat": 0.338,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-07-06": {
+  "clearness": 0.8968,
+  "var_n": 0.0178,
+  "rri": 8.6517,
+  "bright": 0.2786,
+  "sat": 0.3327,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-07-07": {
+  "clearness": 0.8955,
+  "var_n": 0.022,
+  "rri": 7.8451,
+  "bright": 0.277,
+  "sat": 0.3111,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-07-08": {
+  "clearness": 0.9203,
+  "var_n": 0.0212,
+  "rri": 6.5431,
+  "bright": 0.2802,
+  "sat": 0.3787,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-07-09": {
+  "clearness": 0.8958,
+  "var_n": 0.022,
+  "rri": 4.7315,
+  "bright": 0.2824,
+  "sat": 0.3418,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-07-10": {
+  "clearness": 0.8292,
+  "var_n": 0.0217,
+  "rri": 8.7295,
+  "bright": 0.2787,
+  "sat": 0.3689,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-07-11": {
+  "clearness": 0.9005,
+  "var_n": 0.0131,
+  "rri": 8.0025,
+  "bright": 0.2785,
+  "sat": 0.4237,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-07-12": {
+  "clearness": 0.8992,
+  "var_n": 0.0134,
+  "rri": 8.2621,
+  "bright": 0.2812,
+  "sat": 0.4105,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-07-13": {
+  "clearness": 0.9083,
+  "var_n": 0.0128,
+  "rri": 8.4464,
+  "bright": 0.2781,
+  "sat": 0.4136,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-07-15": {
+  "clearness": 0.9006,
+  "var_n": 0.0126,
+  "rri": 8.9589,
+  "bright": 0.2879,
+  "sat": 0.4501,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-07-16": {
+  "clearness": 0.8927,
+  "var_n": 0.0125,
+  "rri": 8.3082,
+  "bright": 0.2834,
+  "sat": 0.4254,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-07-17": {
+  "clearness": 0.8754,
+  "var_n": 0.012,
+  "rri": 7.9745,
+  "bright": 0.2851,
+  "sat": 0.3796,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-07-18": {
+  "clearness": 0.8896,
+  "var_n": 0.0143,
+  "rri": 8.6176,
+  "bright": 0.2812,
+  "sat": 0.3951,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-07-19": {
+  "clearness": 0.8813,
+  "var_n": 0.0128,
+  "rri": 8.7281,
+  "bright": 0.2833,
+  "sat": 0.4256,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-07-20": {
+  "clearness": 0.8653,
+  "var_n": 0.0115,
+  "rri": 7.7784,
+  "bright": 0.2778,
+  "sat": 0.3707,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-07-21": {
+  "clearness": 0.822,
+  "var_n": 0.0368,
+  "rri": 7.911,
+  "bright": 0.2767,
+  "sat": 0.3495,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-07-22": {
+  "clearness": 0.8716,
+  "var_n": 0.0131,
+  "rri": 8.3178,
+  "bright": 0.2746,
+  "sat": 0.3923,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-07-23": {
+  "clearness": 0.876,
+  "var_n": 0.0139,
+  "rri": 8.7063,
+  "bright": 0.2765,
+  "sat": 0.4259,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-07-24": {
+  "clearness": 0.8587,
+  "var_n": 0.0105,
+  "rri": 7.3984,
+  "bright": 0.2873,
+  "sat": 0.4001,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-07-25": {
+  "clearness": 0.8358,
+  "var_n": 0.0404,
+  "rri": 8.7367,
+  "bright": 0.2783,
+  "sat": 0.3197,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-07-26": {
+  "clearness": 0.8827,
+  "var_n": 0.0182,
+  "rri": 8.6018,
+  "bright": 0.2717,
+  "sat": 0.3751,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-07-27": {
+  "clearness": 0.8847,
+  "var_n": 0.0131,
+  "rri": 8.7866,
+  "bright": 0.2751,
+  "sat": 0.3814,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-07-28": {
+  "clearness": 0.8547,
+  "var_n": 0.0111,
+  "rri": 7.7491,
+  "bright": 0.2875,
+  "sat": 0.3953,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-07-29": {
+  "clearness": 0.8983,
+  "var_n": 0.0142,
+  "rri": 8.7324,
+  "bright": 0.2783,
+  "sat": 0.3882,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-07-30": {
+  "clearness": 0.8841,
+  "var_n": 0.017,
+  "rri": 8.8677,
+  "bright": 0.2783,
+  "sat": 0.4018,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-07-31": {
+  "clearness": 0.8843,
+  "var_n": 0.0108,
+  "rri": 7.6074,
+  "bright": 0.2798,
+  "sat": 0.3786,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-08-01": {
+  "clearness": 0.9028,
+  "var_n": 0.012,
+  "rri": 8.3834,
+  "bright": 0.2831,
+  "sat": 0.4187,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-08-02": {
+  "clearness": 0.8896,
+  "var_n": 0.014,
+  "rri": 8.8685,
+  "bright": 0.2803,
+  "sat": 0.4267,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-08-03": {
+  "clearness": 0.8861,
+  "var_n": 0.0145,
+  "rri": 7.7896,
+  "bright": 0.2793,
+  "sat": 0.3943,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-08-04": {
+  "clearness": 0.8621,
+  "var_n": 0.0128,
+  "rri": 8.0156,
+  "bright": 0.2748,
+  "sat": 0.3583,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-08-05": {
+  "clearness": 0.8178,
+  "var_n": 0.0564,
+  "rri": 12.7752,
+  "bright": 0.2748,
+  "sat": 0.251,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-08-06": {
+  "clearness": 0.885,
+  "var_n": 0.0208,
+  "rri": 7.898,
+  "bright": 0.2767,
+  "sat": 0.3604,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-08-07": {
+  "clearness": 0.8789,
+  "var_n": 0.0129,
+  "rri": 8.0125,
+  "bright": 0.2779,
+  "sat": 0.3765,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-08-08": {
+  "clearness": 0.9024,
+  "var_n": 0.0269,
+  "rri": 9.7051,
+  "bright": 0.2793,
+  "sat": 0.3883,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-08-09": {
+  "clearness": 0.8127,
+  "var_n": 0.0261,
+  "rri": 7.2643,
+  "bright": 0.2726,
+  "sat": 0.3293,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-08-11": {
+  "clearness": 0.8641,
+  "var_n": 0.0118,
+  "rri": 8.2488,
+  "bright": 0.2807,
+  "sat": 0.387,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-08-12": {
+  "clearness": 0.8525,
+  "var_n": 0.0108,
+  "rri": 7.5094,
+  "bright": 0.2848,
+  "sat": 0.3976,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-08-13": {
+  "clearness": 0.8498,
+  "var_n": 0.0101,
+  "rri": 6.9376,
+  "bright": 0.2846,
+  "sat": 0.3929,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-08-14": {
+  "clearness": 0.8394,
+  "var_n": 0.0115,
+  "rri": 7.9861,
+  "bright": 0.2888,
+  "sat": 0.3967,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-08-15": {
+  "clearness": 0.8277,
+  "var_n": 0.0094,
+  "rri": 6.4498,
+  "bright": 0.2891,
+  "sat": 0.3924,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-08-16": {
+  "clearness": 0.8509,
+  "var_n": 0.0112,
+  "rri": 7.7418,
+  "bright": 0.2859,
+  "sat": 0.3828,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-08-17": {
+  "clearness": 0.8989,
+  "var_n": 0.0111,
+  "rri": 7.4016,
+  "bright": 0.287,
+  "sat": 0.4099,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-08-18": {
+  "clearness": 0.9044,
+  "var_n": 0.0112,
+  "rri": 7.6316,
+  "bright": 0.2885,
+  "sat": 0.4119,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-08-19": {
+  "clearness": 0.8014,
+  "var_n": 0.0236,
+  "rri": 8.0635,
+  "bright": 0.2704,
+  "sat": 0.3035,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-08-20": {
+  "clearness": 0.8376,
+  "var_n": 0.0228,
+  "rri": 5.5257,
+  "bright": 0.273,
+  "sat": 0.3154,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-08-21": {
+  "clearness": 0.8452,
+  "var_n": 0.0118,
+  "rri": 7.098,
+  "bright": 0.2786,
+  "sat": 0.3785,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-08-22": {
+  "clearness": 0.8207,
+  "var_n": 0.0123,
+  "rri": 6.341,
+  "bright": 0.2704,
+  "sat": 0.3427,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-08-23": {
+  "clearness": 0.8481,
+  "var_n": 0.0103,
+  "rri": 6.9244,
+  "bright": 0.2813,
+  "sat": 0.3763,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-08-24": {
+  "clearness": 0.8335,
+  "var_n": 0.0123,
+  "rri": 7.0511,
+  "bright": 0.2687,
+  "sat": 0.3439,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-08-25": {
+  "clearness": 0.837,
+  "var_n": 0.0102,
+  "rri": 6.2956,
+  "bright": 0.2674,
+  "sat": 0.367,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-08-26": {
+  "clearness": 0.8486,
+  "var_n": 0.0123,
+  "rri": 8.4171,
+  "bright": 0.2892,
+  "sat": 0.3738,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-08-27": {
+  "clearness": 0.8329,
+  "var_n": 0.0165,
+  "rri": 5.9165,
+  "bright": 0.2782,
+  "sat": 0.374,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-08-28": {
+  "clearness": 0.8009,
+  "var_n": 0.0246,
+  "rri": 6.2644,
+  "bright": 0.2638,
+  "sat": 0.3047,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-08-29": {
+  "clearness": 0.7347,
+  "var_n": 0.0118,
+  "rri": 6.9161,
+  "bright": 0.2665,
+  "sat": 0.3197,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-08-30": {
+  "clearness": 0.8729,
+  "var_n": 0.0096,
+  "rri": 6.3661,
+  "bright": 0.2829,
+  "sat": 0.3822,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-08-31": {
+  "clearness": 0.8455,
+  "var_n": 0.0097,
+  "rri": 6.4717,
+  "bright": 0.2855,
+  "sat": 0.3849,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-09-01": {
+  "clearness": 0.8337,
+  "var_n": 0.0091,
+  "rri": 5.8995,
+  "bright": 0.2877,
+  "sat": 0.3991,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-09-02": {
+  "clearness": 0.8458,
+  "var_n": 0.0098,
+  "rri": 6.5001,
+  "bright": 0.2854,
+  "sat": 0.3969,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-09-03": {
+  "clearness": 0.8568,
+  "var_n": 0.0118,
+  "rri": 5.8349,
+  "bright": 0.2755,
+  "sat": 0.3857,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-09-04": {
+  "clearness": 0.7924,
+  "var_n": 0.0367,
+  "rri": 5.5048,
+  "bright": 0.2686,
+  "sat": 0.3153,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-09-05": {
+  "clearness": 0.7962,
+  "var_n": 0.0131,
+  "rri": 6.2271,
+  "bright": 0.2734,
+  "sat": 0.3361,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-09-06": {
+  "clearness": 0.87,
+  "var_n": 0.0091,
+  "rri": 5.901,
+  "bright": 0.2832,
+  "sat": 0.3978,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-09-07": {
+  "clearness": 0.3817,
+  "var_n": 0.0466,
+  "rri": 2.6594,
+  "bright": 0.2731,
+  "sat": 0.2164,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2019-09-08": {
+  "clearness": 0.8783,
+  "var_n": 0.0087,
+  "rri": 5.6011,
+  "bright": 0.2861,
+  "sat": 0.3992,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-09-09": {
+  "clearness": 0.8659,
+  "var_n": 0.0326,
+  "rri": 4.6711,
+  "bright": 0.2839,
+  "sat": 0.3843,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-09-10": {
+  "clearness": 0.8729,
+  "var_n": 0.0177,
+  "rri": 5.1497,
+  "bright": 0.2725,
+  "sat": 0.3628,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-09-11": {
+  "clearness": 0.8426,
+  "var_n": 0.0086,
+  "rri": 5.4071,
+  "bright": 0.2842,
+  "sat": 0.3791,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-09-12": {
+  "clearness": 0.8246,
+  "var_n": 0.0073,
+  "rri": 4.4127,
+  "bright": 0.2873,
+  "sat": 0.3712,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-09-13": {
+  "clearness": 0.8158,
+  "var_n": 0.0105,
+  "rri": 4.7819,
+  "bright": 0.2823,
+  "sat": 0.3541,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-09-14": {
+  "clearness": 0.8444,
+  "var_n": 0.0088,
+  "rri": 5.5762,
+  "bright": 0.2867,
+  "sat": 0.3844,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-09-15": {
+  "clearness": 0.8594,
+  "var_n": 0.0136,
+  "rri": 4.5781,
+  "bright": 0.2758,
+  "sat": 0.3383,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-09-16": {
+  "clearness": 0.8228,
+  "var_n": 0.0423,
+  "rri": 5.5787,
+  "bright": 0.2696,
+  "sat": 0.3206,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-09-17": {
+  "clearness": 0.9155,
+  "var_n": 0.0084,
+  "rri": 5.342,
+  "bright": 0.2847,
+  "sat": 0.4205,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-09-18": {
+  "clearness": 0.3735,
+  "var_n": 0.0325,
+  "rri": 5.252,
+  "bright": 0.2764,
+  "sat": 0.2757,
+  "split": "train",
+  "cls": "rainy"
+ },
+ "2019-09-19": {
+  "clearness": 0.9043,
+  "var_n": 0.0075,
+  "rri": 4.5784,
+  "bright": 0.2824,
+  "sat": 0.3884,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-09-20": {
+  "clearness": 0.8862,
+  "var_n": 0.0077,
+  "rri": 4.867,
+  "bright": 0.2824,
+  "sat": 0.3955,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-09-21": {
+  "clearness": 0.8877,
+  "var_n": 0.0074,
+  "rri": 4.5515,
+  "bright": 0.2852,
+  "sat": 0.4049,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-09-22": {
+  "clearness": 0.7786,
+  "var_n": 0.0298,
+  "rri": 1.4432,
+  "bright": 0.2769,
+  "sat": 0.3612,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-09-23": {
+  "clearness": 0.863,
+  "var_n": 0.0086,
+  "rri": 4.3409,
+  "bright": 0.2725,
+  "sat": 0.3799,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-09-24": {
+  "clearness": 0.852,
+  "var_n": 0.0065,
+  "rri": 3.8496,
+  "bright": 0.2915,
+  "sat": 0.4208,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-09-25": {
+  "clearness": 0.788,
+  "var_n": 0.0197,
+  "rri": 3.4675,
+  "bright": 0.2843,
+  "sat": 0.3921,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-09-26": {
+  "clearness": 0.882,
+  "var_n": 0.0058,
+  "rri": 3.3548,
+  "bright": 0.2858,
+  "sat": 0.4091,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-09-27": {
+  "clearness": 0.9147,
+  "var_n": 0.0175,
+  "rri": 4.2254,
+  "bright": 0.2814,
+  "sat": 0.441,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-09-28": {
+  "clearness": 0.9519,
+  "var_n": 0.0076,
+  "rri": 3.0616,
+  "bright": 0.2755,
+  "sat": 0.4024,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-09-29": {
+  "clearness": 0.8679,
+  "var_n": 0.0376,
+  "rri": 2.4058,
+  "bright": 0.2727,
+  "sat": 0.3652,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-09-30": {
+  "clearness": 0.9287,
+  "var_n": 0.0194,
+  "rri": 2.9684,
+  "bright": 0.2756,
+  "sat": 0.3879,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-10-01": {
+  "clearness": 0.9241,
+  "var_n": 0.0051,
+  "rri": 2.973,
+  "bright": 0.2811,
+  "sat": 0.4074,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-10-02": {
+  "clearness": 0.9095,
+  "var_n": 0.0043,
+  "rri": 2.546,
+  "bright": 0.2842,
+  "sat": 0.4179,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-10-03": {
+  "clearness": 0.9088,
+  "var_n": 0.0044,
+  "rri": 2.4362,
+  "bright": 0.2846,
+  "sat": 0.4172,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-10-04": {
+  "clearness": 0.9153,
+  "var_n": 0.0043,
+  "rri": 2.3475,
+  "bright": 0.2868,
+  "sat": 0.4188,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-10-05": {
+  "clearness": 0.891,
+  "var_n": 0.0035,
+  "rri": 1.8235,
+  "bright": 0.2904,
+  "sat": 0.4342,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-10-06": {
+  "clearness": 0.8023,
+  "var_n": 0.0279,
+  "rri": 1.5001,
+  "bright": 0.2821,
+  "sat": 0.3756,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-10-07": {
+  "clearness": 0.8583,
+  "var_n": 0.0062,
+  "rri": 1.2314,
+  "bright": 0.2782,
+  "sat": 0.3936,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-10-08": {
+  "clearness": 0.7921,
+  "var_n": 0.0493,
+  "rri": 1.5259,
+  "bright": 0.2797,
+  "sat": 0.3389,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-10-09": {
+  "clearness": 0.8973,
+  "var_n": 0.0035,
+  "rri": 1.2198,
+  "bright": 0.2864,
+  "sat": 0.3974,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-10-10": {
+  "clearness": 0.8864,
+  "var_n": 0.0165,
+  "rri": 1.2887,
+  "bright": 0.2839,
+  "sat": 0.3651,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-10-11": {
+  "clearness": 0.8063,
+  "var_n": 0.0057,
+  "rri": 1.0444,
+  "bright": 0.2758,
+  "sat": 0.3148,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-10-12": {
+  "clearness": 0.8405,
+  "var_n": 0.0127,
+  "rri": 1.1263,
+  "bright": 0.2836,
+  "sat": 0.3571,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-10-13": {
+  "clearness": 0.865,
+  "var_n": 0.0082,
+  "rri": 1.1136,
+  "bright": 0.2791,
+  "sat": 0.3658,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-10-15": {
+  "clearness": 0.7447,
+  "var_n": 0.0056,
+  "rri": 1.0906,
+  "bright": 0.2685,
+  "sat": 0.331,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-10-16": {
+  "clearness": 0.5125,
+  "var_n": 0.0285,
+  "rri": 1.0402,
+  "bright": 0.275,
+  "sat": 0.2362,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-10-17": {
+  "clearness": 0.9032,
+  "var_n": 0.0066,
+  "rri": 1.1238,
+  "bright": 0.2853,
+  "sat": 0.4276,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-10-18": {
+  "clearness": 0.83,
+  "var_n": 0.0392,
+  "rri": 1.2284,
+  "bright": 0.2781,
+  "sat": 0.3301,
+  "split": "train",
+  "cls": "cloudy"
+ },
+ "2019-10-20": {
+  "clearness": 0.858,
+  "var_n": 0.0042,
+  "rri": 1.0995,
+  "bright": 0.2854,
+  "sat": 0.4366,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-10-21": {
+  "clearness": 0.8557,
+  "var_n": 0.0043,
+  "rri": 1.0806,
+  "bright": 0.2885,
+  "sat": 0.4363,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-10-22": {
+  "clearness": 0.8453,
+  "var_n": 0.0074,
+  "rri": 1.0684,
+  "bright": 0.2889,
+  "sat": 0.4393,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-10-23": {
+  "clearness": 0.819,
+  "var_n": 0.0042,
+  "rri": 1.0025,
+  "bright": 0.2909,
+  "sat": 0.4024,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-10-24": {
+  "clearness": 0.8306,
+  "var_n": 0.0049,
+  "rri": 1.0318,
+  "bright": 0.2908,
+  "sat": 0.3991,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-10-25": {
+  "clearness": 0.8154,
+  "var_n": 0.0055,
+  "rri": 1.0013,
+  "bright": 0.2866,
+  "sat": 0.3902,
+  "split": "train",
+  "cls": "sunny"
+ },
+ "2019-10-26": {
+  "clearness": 0.8258,
+  "var_n": 0.0042,
+  "rri": 1.0274,
+  "bright": 0.2817,
+  "sat": 0.3874,
+  "split": "train",
+  "cls": "sunny"
+ }
+}

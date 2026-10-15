@@ -1,0 +1,210 @@
+{
+ "RAW-persistence": {
+  "opp_overall": 3.7073,
+  "opp_ramp": 8.749,
+  "rw_overall": 2.8799,
+  "rw_ramp": 5.8343,
+  "t_overall": -15.88,
+  "t_ramp": -23.83,
+  "blocks": {
+   "overall": 3.7073,
+   "ramp10": 8.749,
+   "nonramp": 1.254,
+   "sunny": 1.1482,
+   "cloudy": 5.1628,
+   "b5+kW": 10.8808
+  }
+ },
+ "CSI-persistence": {
+  "opp_overall": 4.071,
+  "opp_ramp": 7.9267,
+  "rw_overall": 2.8799,
+  "rw_ramp": 5.8343,
+  "t_overall": -23.76,
+  "t_ramp": -17.72,
+  "blocks": {
+   "overall": 4.071,
+   "ramp10": 7.9267,
+   "nonramp": 2.7583,
+   "sunny": 1.4825,
+   "cloudy": 5.6134,
+   "b5+kW": 9.2396
+  }
+ },
+ "MLP-ens3": {
+  "opp_overall": 3.1776,
+  "opp_ramp": 7.2118,
+  "rw_overall": 2.8799,
+  "rw_ramp": 5.8343,
+  "t_overall": -9.62,
+  "t_ramp": -18.08,
+  "blocks": {
+   "overall": 3.1776,
+   "ramp10": 7.2118,
+   "nonramp": 1.405,
+   "sunny": 0.2925,
+   "cloudy": 4.5276,
+   "b5+kW": 8.7436
+  }
+ },
+ "GRU-ens3": {
+  "opp_overall": 3.1556,
+  "opp_ramp": 7.2033,
+  "rw_overall": 2.8799,
+  "rw_ramp": 5.8343,
+  "t_overall": -9.52,
+  "t_ramp": -19.63,
+  "blocks": {
+   "overall": 3.1556,
+   "ramp10": 7.2033,
+   "nonramp": 1.3533,
+   "sunny": 0.2808,
+   "cloudy": 4.4969,
+   "b5+kW": 8.7398
+  }
+ },
+ "SUNSET-ens3": {
+  "opp_overall": 2.9725,
+  "opp_ramp": 6.3999,
+  "rw_overall": 2.8799,
+  "rw_ramp": 5.8343,
+  "t_overall": -4.97,
+  "t_ramp": -12.09,
+  "blocks": {
+   "overall": 2.9725,
+   "ramp10": 6.3999,
+   "nonramp": 1.6157,
+   "sunny": 0.4488,
+   "cloudy": 4.2199,
+   "b5+kW": 7.719
+  }
+ },
+ "ConvLSTM-ens": {
+  "opp_overall": 2.9373,
+  "opp_ramp": 6.2745,
+  "rw_overall": 2.8799,
+  "rw_ramp": 5.8343,
+  "t_overall": -3.12,
+  "t_ramp": -9.89,
+  "blocks": {
+   "overall": 2.9373,
+   "ramp10": 6.2745,
+   "nonramp": 1.6339,
+   "sunny": 0.6396,
+   "cloudy": 4.1433,
+   "b5+kW": 7.527
+  }
+ },
+ "CL-SUNSET-ens": {
+  "opp_overall": 2.9624,
+  "opp_ramp": 6.4667,
+  "rw_overall": 2.8799,
+  "rw_ramp": 5.8343,
+  "t_overall": -4.22,
+  "t_ramp": -13.01,
+  "blocks": {
+   "overall": 2.9624,
+   "ramp10": 6.4667,
+   "nonramp": 1.5401,
+   "sunny": 0.3916,
+   "cloudy": 4.2113,
+   "b5+kW": 7.8452
+  }
+ },
+ "CLB-ens3": {
+  "opp_overall": 2.8859,
+  "opp_ramp": 6.4002,
+  "rw_overall": 2.8799,
+  "rw_ramp": 5.8343,
+  "t_overall": -0.33,
+  "t_ramp": -13.03,
+  "blocks": {
+   "overall": 2.8859,
+   "ramp10": 6.4002,
+   "nonramp": 1.4156,
+   "sunny": 0.2775,
+   "cloudy": 4.1112,
+   "b5+kW": 7.7381
+  }
+ },
+ "AWA-ens3": {
+  "opp_overall": 2.8533,
+  "opp_ramp": 6.3111,
+  "rw_overall": 2.8799,
+  "rw_ramp": 5.8343,
+  "t_overall": 1.67,
+  "t_ramp": -12.55,
+  "blocks": {
+   "overall": 2.8533,
+   "ramp10": 6.3111,
+   "nonramp": 1.4141,
+   "sunny": 0.3038,
+   "cloudy": 4.0625,
+   "b5+kW": 7.6292
+  }
+ },
+ "E_rw6(????)": {
+  "opp_overall": 2.8996,
+  "opp_ramp": 5.894,
+  "rw_overall": 2.8799,
+  "rw_ramp": 5.8343,
+  "t_overall": -2.07,
+  "t_ramp": -2.46,
+  "blocks": {
+   "overall": 2.8996,
+   "ramp10": 5.894,
+   "nonramp": 1.8179,
+   "sunny": 0.485,
+   "cloudy": 4.1109,
+   "b5+kW": 6.9355
+  }
+ },
+ "E43": {
+  "opp_overall": 2.8508,
+  "opp_ramp": 6.3327,
+  "rw_overall": 2.8799,
+  "rw_ramp": 5.8343,
+  "t_overall": 1.76,
+  "t_ramp": -12.89,
+  "blocks": {
+   "overall": 2.8508,
+   "ramp10": 6.3327,
+   "nonramp": 1.3893,
+   "sunny": 0.2748,
+   "cloudy": 4.0611,
+   "b5+kW": 7.6743
+  }
+ },
+ "TPA-ens3": {
+  "opp_overall": 2.824,
+  "opp_ramp": 6.1168,
+  "rw_overall": 2.8799,
+  "rw_ramp": 5.8343,
+  "t_overall": 3.46,
+  "t_ramp": -7.06,
+  "blocks": {
+   "overall": 2.824,
+   "ramp10": 6.1168,
+   "nonramp": 1.5064,
+   "sunny": 0.2636,
+   "cloudy": 4.0235,
+   "b5+kW": 7.3204
+  }
+ },
+ "TPA-E18": {
+  "opp_overall": 2.8125,
+  "opp_ramp": 6.2004,
+  "rw_overall": 2.8799,
+  "rw_ramp": 5.8343,
+  "t_overall": 4.47,
+  "t_ramp": -10.35,
+  "blocks": {
+   "overall": 2.8125,
+   "ramp10": 6.2004,
+   "nonramp": 1.4115,
+   "sunny": 0.2704,
+   "cloudy": 4.0066,
+   "b5+kW": 7.48
+  }
+ }
+}

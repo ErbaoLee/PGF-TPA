@@ -1,0 +1,116 @@
+{
+ "rows": {
+  "tpa_ens3": {
+   "overall": 2.824,
+   "ramp10": 6.1168,
+   "nonramp": 1.5064,
+   "sunny": 0.2636,
+   "cloudy": 4.0235,
+   "up10": 6.2784,
+   "down10": 5.9313,
+   "b5+kW": 7.3204
+  },
+  "tpa_E18": {
+   "overall": 2.8125,
+   "ramp10": 6.2004,
+   "nonramp": 1.4115,
+   "sunny": 0.2704,
+   "cloudy": 4.0066,
+   "up10": 6.3228,
+   "down10": 6.061,
+   "b5+kW": 7.48
+  },
+  "tpa_rw_ens3": {
+   "overall": 2.8799,
+   "ramp10": 5.8343,
+   "nonramp": 1.8178,
+   "sunny": 0.43,
+   "cloudy": 4.0889,
+   "up10": 5.8955,
+   "down10": 5.7652,
+   "b5+kW": 6.8314
+  },
+  "tpams_ens3": {
+   "overall": 2.8271,
+   "ramp10": 6.1792,
+   "nonramp": 1.4634,
+   "sunny": 0.2939,
+   "cloudy": 4.0258,
+   "up10": 6.1537,
+   "down10": 6.2076,
+   "b5+kW": 7.4472
+  },
+  "G3mix_tpams_ens3": {
+   "overall": 2.8092,
+   "ramp10": 6.1913,
+   "nonramp": 1.4113,
+   "sunny": 0.2693,
+   "cloudy": 4.0019,
+   "up10": 6.2992,
+   "down10": 6.0687,
+   "b5+kW": 7.4689
+  },
+  "tpasa_ens3": {
+   "overall": 2.8412,
+   "ramp10": 6.313,
+   "nonramp": 1.383,
+   "sunny": 0.268,
+   "cloudy": 4.0479,
+   "up10": 6.3474,
+   "down10": 6.2745,
+   "b5+kW": 7.6354
+  },
+  "G3mix_tpasa_ens3": {
+   "overall": 2.8133,
+   "ramp10": 6.2088,
+   "nonramp": 1.4063,
+   "sunny": 0.2667,
+   "cloudy": 4.0081,
+   "up10": 6.3232,
+   "down10": 6.0787,
+   "b5+kW": 7.4926
+  }
+ },
+ "t": {
+  "tpams_ens3_vs_ens3": {
+   "overall": 0.22,
+   "ramp10": 1.87,
+   "nonramp": -2.52,
+   "sunny": 10.22,
+   "cloudy": 0.12,
+   "up10": -3.09,
+   "down10": 5.16,
+   "b5+kW": 2.88
+  },
+  "tpams_ens3_vs_E18": {
+   "overall": 1.19,
+   "ramp10": -0.77,
+   "nonramp": 3.01,
+   "sunny": 9.45,
+   "cloudy": 1.09,
+   "up10": -4.66,
+   "down10": 3.51,
+   "b5+kW": -0.88
+  },
+  "tpasa_ens3_vs_ens3": {
+   "overall": 1.4,
+   "ramp10": 6.39,
+   "nonramp": -9.9,
+   "sunny": 2.45,
+   "cloudy": 1.38,
+   "up10": 2.06,
+   "down10": 6.45,
+   "b5+kW": 7.89
+  },
+  "tpasa_ens3_vs_E18": {
+   "overall": 4.01,
+   "ramp10": 6.33,
+   "nonramp": -3.81,
+   "sunny": -1.44,
+   "cloudy": 4.02,
+   "up10": 1.09,
+   "down10": 7.67,
+   "b5+kW": 6.71
+  }
+ }
+}

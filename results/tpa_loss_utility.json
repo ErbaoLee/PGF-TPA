@@ -1,0 +1,96 @@
+{
+  "protocol": "v1.1",
+  "date": "2026-10-12",
+  "audited_prediction_files": 62,
+  "ramp_fraction": 0.16234347048300538,
+  "models": {
+    "TPA-E3": {
+      "overall_rmse": 2.823982149475016,
+      "ramp_rmse": 6.11678660774432,
+      "nonramp_rmse": 1.5063750350757246,
+      "overall_mse": 7.97487518055353,
+      "ramp_mse_component": 6.074093676609542,
+      "nonramp_mse_component": 1.9007815039439886,
+      "ramp_sse_share": 0.7616537612301467,
+      "weighted_mse4": 26.19715621038215,
+      "up_bias": -4.91802350206684,
+      "down_bias": 4.506929158718667
+    },
+    "TPA-RW-E3": {
+      "overall_rmse": 2.8799092200877623,
+      "ramp_rmse": 5.834271396386383,
+      "nonramp_rmse": 1.8177878992020389,
+      "overall_mse": 8.293877115946504,
+      "ramp_mse_component": 5.525964378259976,
+      "nonramp_mse_component": 2.7679127376865305,
+      "ramp_sse_share": 0.6662703463058662,
+      "weighted_mse4": 24.871770250726435,
+      "up_bias": -4.426401499006151,
+      "down_bias": 4.158352050140048
+    }
+  },
+  "singles": [
+    {
+      "family": "TPA-E3",
+      "seed": 0,
+      "overall_rmse": 2.8817878665254404,
+      "ramp10_rmse": 6.267985961744551,
+      "nonramp_rmse": 1.5165743660399227,
+      "up10_rmse": 6.394382747293234,
+      "down10_rmse": 6.123928006871307
+    },
+    {
+      "family": "TPA-E3",
+      "seed": 1,
+      "overall_rmse": 2.823874416309662,
+      "ramp10_rmse": 6.093945529814559,
+      "nonramp_rmse": 1.5239728590313786,
+      "up10_rmse": 6.2833479742847596,
+      "down10_rmse": 5.875490406394809
+    },
+    {
+      "family": "TPA-E3",
+      "seed": 2,
+      "overall_rmse": 2.8776384221427116,
+      "ramp10_rmse": 6.148260527352388,
+      "nonramp_rmse": 1.5998653894194668,
+      "up10_rmse": 6.292172537683248,
+      "down10_rmse": 5.983661379429849
+    },
+    {
+      "family": "TPA-RW-E3",
+      "seed": 0,
+      "overall_rmse": 2.924308785201685,
+      "ramp10_rmse": 5.856663161103542,
+      "nonramp_rmse": 1.887132127005613,
+      "up10_rmse": 6.194173395388984,
+      "down10_rmse": 5.455632052970256
+    },
+    {
+      "family": "TPA-RW-E3",
+      "seed": 1,
+      "overall_rmse": 2.911770862908759,
+      "ramp10_rmse": 5.907449439835512,
+      "nonramp_rmse": 1.8325182590445583,
+      "up10_rmse": 5.8156223832319585,
+      "down10_rmse": 6.008216461344354
+    },
+    {
+      "family": "TPA-RW-E3",
+      "seed": 2,
+      "overall_rmse": 2.9226344210779995,
+      "ramp10_rmse": 5.869249518675455,
+      "nonramp_rmse": 1.8764266944707653,
+      "up10_rmse": 5.783440578538568,
+      "down10_rmse": 5.963503043665031
+    }
+  ],
+  "weighted_mse4_delta": -1.3253859596557156,
+  "weighted_mse4_relative_reduction": 0.050592741785097095,
+  "weighted_mse4_day_bootstrap_95ci": [
+    -2.847004304793918,
+    -0.14704548086712907
+  ],
+  "inference_scope": "Post-hoc, unadjusted, conditional on the selected 20 test days",
+  "validation_selection": "Unweighted overall validation RMSE for both losses; see run_pgf.py"
+}

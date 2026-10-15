@@ -1,0 +1,264 @@
+{
+  "upstream": "solarbench/SKIPPD",
+  "revision": "f51690de73d34cc409670ef6119fd69cc3aade8d",
+  "clearsky_reference_sha256": "bb37215c536c7cd0db8f4f382e975e69e5560642b8fbb0f27721745db37c88f2",
+  "timezone": "US/Pacific local wall-clock",
+  "splits": {
+    "train": {
+      "image_shape": [
+        349372,
+        64,
+        64,
+        3
+      ],
+      "image_npy_sha256": "b7c5b53c4612e54f9ff405d4cc06ff33df29acb832aff94a3775f7f51b1cde03",
+      "image_bytes": 4293083264
+    },
+    "test": {
+      "image_shape": [
+        14003,
+        64,
+        64,
+        3
+      ],
+      "image_npy_sha256": "2c63acb9e9b86a3f18846f1e48b7730ae8c38c9e19156c8ae4ce55c12ad390bb",
+      "image_bytes": 172068992
+    }
+  },
+  "array_sha256": {
+    "train_clearsky.npz/p_theo": {
+      "shape": [
+        349372
+      ],
+      "dtype": "float64",
+      "sha256": "2412cc48687995d123f3c686e0e57b8b5151cf075c147bcca496d02b6b565a3d",
+      "reference_key": "train",
+      "absolute_tolerance": 1e-10
+    },
+    "train_meta.npz/minutes": {
+      "shape": [
+        349372
+      ],
+      "dtype": "datetime64[s]",
+      "sha256": "f6e7d67677cb0e5a6f512b712484e4c307ed7a4f0977f0d838adb9f33df14541"
+    },
+    "train_meta.npz/frame_rows": {
+      "shape": [
+        349372
+      ],
+      "dtype": "int64",
+      "sha256": "a2b0183cf972928ad69bdcfad4939abb2db9e5b5dc7c9891bc34da86292c628b"
+    },
+    "train_meta.npz/pv": {
+      "shape": [
+        349372
+      ],
+      "dtype": "float32",
+      "sha256": "f1bd6e615bfd0b65980c8e631708b3e2876c2bb8a880bf108a47486a854c6e01"
+    },
+    "train_samples.npz/anchors": {
+      "shape": [
+        262225
+      ],
+      "dtype": "int64",
+      "sha256": "99684c91ffad63b988649fdc2ebc7ab49f8d2d7626788bde99ccf96a8887467d"
+    },
+    "train_samples.npz/win": {
+      "shape": [
+        262225,
+        15
+      ],
+      "dtype": "int64",
+      "sha256": "cb412937eafe429bf494200135d85de2c5adaeda81a07a84fbe422e94bd1e623"
+    },
+    "train_samples.npz/tgt": {
+      "shape": [
+        262225
+      ],
+      "dtype": "int64",
+      "sha256": "45b48f866331a9d1136fcd2fc908d40b34a186448ce54b9b0463f281acd5154c"
+    },
+    "train_samples.npz/anchor_time": {
+      "shape": [
+        262225
+      ],
+      "dtype": "datetime64[s]",
+      "sha256": "837f781ba705a67738dd8949aa3f316c473692cde2da8c36f08beea339b754a5"
+    },
+    "train_samples_h30.npz/anchors": {
+      "shape": [
+        220548
+      ],
+      "dtype": "int64",
+      "sha256": "fa6635f4705bfc390fdef8096dd4e1ffaaf312f429f66cf1f5b92ea8e43b619b"
+    },
+    "train_samples_h30.npz/win": {
+      "shape": [
+        220548,
+        15
+      ],
+      "dtype": "int64",
+      "sha256": "341fa94f99e920f69591797f50c5c35ef88ea74a9f0e0940e9e2bce0e1328090"
+    },
+    "train_samples_h30.npz/tgt": {
+      "shape": [
+        220548
+      ],
+      "dtype": "int64",
+      "sha256": "c91fcb1a97dbe70ce376eccf6e813014e1cc22d8c453054b7b72a539ba57bfca"
+    },
+    "train_samples_h30.npz/anchor_time": {
+      "shape": [
+        220548
+      ],
+      "dtype": "datetime64[s]",
+      "sha256": "c749ceafbbfbe0990f398af45ddf0aed688f512aa3ce37bc97d6575068547aa9"
+    },
+    "train_samples_h5.npz/anchors": {
+      "shape": [
+        291229
+      ],
+      "dtype": "int64",
+      "sha256": "f6bb3eab249b575dd7d3196867e56e91d97d0cbbc420ba5139b4be0b8ee3c756"
+    },
+    "train_samples_h5.npz/win": {
+      "shape": [
+        291229,
+        15
+      ],
+      "dtype": "int64",
+      "sha256": "3aef51a9dac096bd14d8c8a004f5aa246d2063374a5965b91881615b67a162fa"
+    },
+    "train_samples_h5.npz/tgt": {
+      "shape": [
+        291229
+      ],
+      "dtype": "int64",
+      "sha256": "2fa964f856de06c7446dc55796d19ca656210c69519920fdaa63012d47e0ee85"
+    },
+    "train_samples_h5.npz/anchor_time": {
+      "shape": [
+        291229
+      ],
+      "dtype": "datetime64[s]",
+      "sha256": "a2c0d055c05207cca7a76f2227948818e0f06f065c0c26e7b6a7911f9ecc92e6"
+    },
+    "test_clearsky.npz/p_theo": {
+      "shape": [
+        14003
+      ],
+      "dtype": "float64",
+      "sha256": "9752e73ff8ec8cf23d63718b1f4f41038882b4903e50d0dcdb183b21f8383904",
+      "reference_key": "test",
+      "absolute_tolerance": 1e-10
+    },
+    "test_meta.npz/minutes": {
+      "shape": [
+        14003
+      ],
+      "dtype": "datetime64[s]",
+      "sha256": "84ee1162147d1cbddf19547c83a613d2cfc861d66cf149f22a73bd5c378bacba"
+    },
+    "test_meta.npz/frame_rows": {
+      "shape": [
+        14003
+      ],
+      "dtype": "int64",
+      "sha256": "dda1ae582c4539fc652be4a68ba29d290a7379cda5197917507e23ed3f26373e"
+    },
+    "test_meta.npz/pv": {
+      "shape": [
+        14003
+      ],
+      "dtype": "float32",
+      "sha256": "122a949d53c8e2cc0c3da845deb4d536b5ae13546c26b45506c4c7a9fa5e41be"
+    },
+    "test_samples.npz/anchors": {
+      "shape": [
+        11180
+      ],
+      "dtype": "int64",
+      "sha256": "b9429326d7a96769e28fd0bf2f2cec78a88de8fae23cbe486445b00fba7e567c"
+    },
+    "test_samples.npz/win": {
+      "shape": [
+        11180,
+        15
+      ],
+      "dtype": "int64",
+      "sha256": "5a5b921aa9e4ea33e6c5786814f3077f08d304dc67dd707848ae72260bab61be"
+    },
+    "test_samples.npz/tgt": {
+      "shape": [
+        11180
+      ],
+      "dtype": "int64",
+      "sha256": "f842e307b93184bbd2663e05be1d3f4f9e1cf5a7dd41cc2118015a5756ad0fe0"
+    },
+    "test_samples.npz/anchor_time": {
+      "shape": [
+        11180
+      ],
+      "dtype": "datetime64[s]",
+      "sha256": "f7bbfce91e4c0e6034e76d940c9559e7d9e492993e5b680381da62953d42ae6a"
+    },
+    "test_samples_h30.npz/anchors": {
+      "shape": [
+        9814
+      ],
+      "dtype": "int64",
+      "sha256": "4056c87f7a5a37b593bb5067bd1ebfd22108e6fdc088223a21c59a8eb5a736d1"
+    },
+    "test_samples_h30.npz/win": {
+      "shape": [
+        9814,
+        15
+      ],
+      "dtype": "int64",
+      "sha256": "941224cb7e135e9585107584f481c22fd1172bbac07f9a29befcd2d3721ed3e5"
+    },
+    "test_samples_h30.npz/tgt": {
+      "shape": [
+        9814
+      ],
+      "dtype": "int64",
+      "sha256": "e0f3484cefe5869d4e3789a9474568c21cc4dbe328e3d84c871af18915b3f4f2"
+    },
+    "test_samples_h30.npz/anchor_time": {
+      "shape": [
+        9814
+      ],
+      "dtype": "datetime64[s]",
+      "sha256": "835479e8b1ec4de1da003e83c5fc1b7bbfd6a9208ccc418c0509f29a0d096a21"
+    },
+    "test_samples_h5.npz/anchors": {
+      "shape": [
+        12105
+      ],
+      "dtype": "int64",
+      "sha256": "387accaa5db60046bbef25391d85e098996b63fae7dd99adec09b48db9d3ffb3"
+    },
+    "test_samples_h5.npz/win": {
+      "shape": [
+        12105,
+        15
+      ],
+      "dtype": "int64",
+      "sha256": "25bd9d8f1ae2ceb4ba5f229dae0f7b57be94ed76214ead6c9119da84880b84b0"
+    },
+    "test_samples_h5.npz/tgt": {
+      "shape": [
+        12105
+      ],
+      "dtype": "int64",
+      "sha256": "03423bd77eb3b6c1fe4ccc5d914d676be3a5b37ea953bbc98a8a6b7665506cd8"
+    },
+    "test_samples_h5.npz/anchor_time": {
+      "shape": [
+        12105
+      ],
+      "dtype": "datetime64[s]",
+      "sha256": "94ddbb9de7b8b00bd4feb0228687def1e40278cd4731df313f0b9ccded568622"
+    }
+  }
+}

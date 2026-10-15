@@ -1,0 +1,387 @@
+{
+  "n_test": 11180,
+  "singles": {
+    "awa_s0": {
+      "overall": 2.952,
+      "sunny": 0.3435,
+      "cloudy": 4.2007,
+      "ramp10": 6.3926,
+      "nonramp": 1.5758,
+      "up10": 6.4212,
+      "down10": 6.3606
+    },
+    "clb_s0": {
+      "overall": 2.9042,
+      "sunny": 0.2634,
+      "cloudy": 4.1384,
+      "ramp10": 6.3909,
+      "nonramp": 1.4675,
+      "up10": 6.278,
+      "down10": 6.5145
+    },
+    "t_awa_vs_clb_s0": {
+      "overall": 2.09,
+      "sunny": 15.26,
+      "cloudy": 1.91,
+      "ramp10": 0.03,
+      "nonramp": 4.28,
+      "up10": 1.89,
+      "down10": -1.83
+    },
+    "awa_s1": {
+      "overall": 2.9526,
+      "sunny": 0.3701,
+      "cloudy": 4.1993,
+      "ramp10": 6.5909,
+      "nonramp": 1.4101,
+      "up10": 6.766,
+      "down10": 6.39
+    },
+    "clb_s1": {
+      "overall": 2.9405,
+      "sunny": 0.346,
+      "cloudy": 4.184,
+      "ramp10": 6.5128,
+      "nonramp": 1.4496,
+      "up10": 6.7292,
+      "down10": 6.2626
+    },
+    "t_awa_vs_clb_s1": {
+      "overall": 0.91,
+      "sunny": 4.6,
+      "cloudy": 0.79,
+      "ramp10": 2.4,
+      "nonramp": -2.5,
+      "up10": 0.88,
+      "down10": 2.49
+    },
+    "awa_s2": {
+      "overall": 2.8341,
+      "sunny": 0.3629,
+      "cloudy": 4.03,
+      "ramp10": 6.1994,
+      "nonramp": 1.4631,
+      "up10": 6.1615,
+      "down10": 6.2413
+    },
+    "clb_s2": {
+      "overall": 2.926,
+      "sunny": 0.3135,
+      "cloudy": 4.1659,
+      "ramp10": 6.463,
+      "nonramp": 1.4577,
+      "up10": 6.4777,
+      "down10": 6.4466
+    },
+    "t_awa_vs_clb_s2": {
+      "overall": -5.23,
+      "sunny": 10.33,
+      "cloudy": -5.41,
+      "ramp10": -5.88,
+      "nonramp": 0.33,
+      "up10": -5.59,
+      "down10": -2.9
+    }
+  },
+  "tpa": {
+    "tpa_s0": {
+      "overall": 2.8818,
+      "sunny": 0.3168,
+      "cloudy": 4.1023,
+      "ramp10": 6.268,
+      "nonramp": 1.5166,
+      "up10": 6.3944,
+      "down10": 6.1239
+    },
+    "t_tpa_vs_clb_s0": {
+      "overall": -1.18,
+      "sunny": 16.53,
+      "cloudy": -1.33,
+      "ramp10": -2.63,
+      "nonramp": 2.33,
+      "up10": 1.85,
+      "down10": -5.67
+    },
+    "tpa_s1": {
+      "overall": 2.8239,
+      "sunny": 0.2707,
+      "cloudy": 4.0229,
+      "ramp10": 6.0939,
+      "nonramp": 1.524,
+      "up10": 6.2833,
+      "down10": 5.8755
+    },
+    "t_tpa_vs_clb_s1": {
+      "overall": -5.36,
+      "sunny": -18.49,
+      "cloudy": -5.18,
+      "ramp10": -7.73,
+      "nonramp": 3.35,
+      "up10": -5.92,
+      "down10": -4.97
+    },
+    "tpa_s2": {
+      "overall": 2.8776,
+      "sunny": 0.2997,
+      "cloudy": 4.0977,
+      "ramp10": 6.1483,
+      "nonramp": 1.5999,
+      "up10": 6.2922,
+      "down10": 5.9837
+    },
+    "t_tpa_vs_clb_s2": {
+      "overall": -2.31,
+      "sunny": -4.15,
+      "cloudy": -2.28,
+      "ramp10": -5.95,
+      "nonramp": 6.92,
+      "up10": -3.23,
+      "down10": -5.02
+    },
+    "tpa_ens3": {
+      "overall": 2.824,
+      "sunny": 0.2636,
+      "cloudy": 4.0235,
+      "ramp10": 6.1168,
+      "nonramp": 1.5064,
+      "up10": 6.2784,
+      "down10": 5.9313
+    },
+    "clb_ens3": {
+      "overall": 2.8859,
+      "sunny": 0.2775,
+      "cloudy": 4.1112,
+      "ramp10": 6.4002,
+      "nonramp": 1.4156,
+      "up10": 6.4371,
+      "down10": 6.3587
+    },
+    "t_tpaens_vs_clbens": {
+      "overall": -3.96,
+      "sunny": -6.65,
+      "cloudy": -3.92,
+      "ramp10": -7.28,
+      "nonramp": 5.7,
+      "up10": -3.35,
+      "down10": -6.74
+    },
+    "t_tpaens_vs_ConvLSTM_ens": {
+      "overall": -6.52,
+      "sunny": -42.3,
+      "cloudy": -4.8,
+      "ramp10": -3.58,
+      "nonramp": -7.27,
+      "up10": 3.52,
+      "down10": -8.34
+    },
+    "t_tpaens_vs_E19": {
+      "overall": -3.02,
+      "sunny": -23.63,
+      "cloudy": -2.77,
+      "ramp10": -5.04,
+      "nonramp": 3.75,
+      "up10": -2.91,
+      "down10": -4.18
+    },
+    "t_tpaens_vs_E37": {
+      "overall": -1.77,
+      "sunny": -6.99,
+      "cloudy": -1.72,
+      "ramp10": -5.39,
+      "nonramp": 7.25,
+      "up10": -3.59,
+      "down10": -4.02
+    }
+  },
+  "ens3": {
+    "awa": {
+      "overall": 2.8533,
+      "sunny": 0.3038,
+      "cloudy": 4.0625,
+      "ramp10": 6.3111,
+      "nonramp": 1.4141,
+      "up10": 6.3771,
+      "down10": 6.2366
+    },
+    "clb": {
+      "overall": 2.8859,
+      "sunny": 0.2775,
+      "cloudy": 4.1112,
+      "ramp10": 6.4002,
+      "nonramp": 1.4156,
+      "up10": 6.4371,
+      "down10": 6.3587
+    },
+    "t_awa_vs_clb": {
+      "overall": -3.38,
+      "sunny": 8.07,
+      "cloudy": -3.52,
+      "ramp10": -3.75,
+      "nonramp": -0.14,
+      "up10": -1.84,
+      "down10": -3.52
+    }
+  },
+  "abl_noalign": {
+    "noalign": {
+      "overall": 2.9271,
+      "sunny": 0.3741,
+      "cloudy": 4.1622,
+      "ramp10": 6.5439,
+      "nonramp": 1.3888,
+      "up10": 6.6986,
+      "down10": 6.3669
+    },
+    "awa": {
+      "overall": 2.952,
+      "sunny": 0.3435,
+      "cloudy": 4.2007,
+      "ramp10": 6.3926,
+      "nonramp": 1.5758,
+      "up10": 6.4212,
+      "down10": 6.3606
+    },
+    "t_awa_vs_noalign": {
+      "overall": 1.78,
+      "sunny": -6.25,
+      "cloudy": 1.92,
+      "ramp10": -4.6,
+      "nonramp": 10.64,
+      "up10": -6.7,
+      "down10": -0.12
+    }
+  },
+  "abl_noextrap": {
+    "noextrap": {
+      "overall": 2.9102,
+      "sunny": 0.3429,
+      "cloudy": 4.1409,
+      "ramp10": 6.4935,
+      "nonramp": 1.3924,
+      "up10": 6.5406,
+      "down10": 6.4406
+    },
+    "awa": {
+      "overall": 2.952,
+      "sunny": 0.3435,
+      "cloudy": 4.2007,
+      "ramp10": 6.3926,
+      "nonramp": 1.5758,
+      "up10": 6.4212,
+      "down10": 6.3606
+    },
+    "t_awa_vs_noextrap": {
+      "overall": 3.02,
+      "sunny": 0.12,
+      "cloudy": 3.02,
+      "ramp10": -3.19,
+      "nonramp": 9.79,
+      "up10": -2.62,
+      "down10": -1.85
+    }
+  },
+  "tpa_fullens": {
+    "n_members": 18,
+    "tpa_full": {
+      "overall": 2.8125,
+      "sunny": 0.2704,
+      "cloudy": 4.0066,
+      "ramp10": 6.2004,
+      "nonramp": 1.4115,
+      "up10": 6.3228,
+      "down10": 6.061
+    },
+    "t_vs_E37": {
+      "overall": -4.13,
+      "sunny": -4.24,
+      "cloudy": -4.08,
+      "ramp10": -5.18,
+      "nonramp": 1.22,
+      "up10": -4.02,
+      "down10": -3.34
+    },
+    "E37": {
+      "overall": 2.8503,
+      "sunny": 0.2794,
+      "cloudy": 4.0601,
+      "ramp10": 6.3192,
+      "nonramp": 1.3999,
+      "up10": 6.4392,
+      "down10": 6.1825
+    },
+    "t_vs_E18_clb": {
+      "overall": -4.58,
+      "sunny": 11.57,
+      "cloudy": -4.66,
+      "ramp10": -6.15,
+      "nonramp": 2.29,
+      "up10": -5.35,
+      "down10": -3.49
+    },
+    "E18_clb": {
+      "overall": 2.8584,
+      "sunny": 0.2541,
+      "cloudy": 4.0734,
+      "ramp10": 6.3547,
+      "nonramp": 1.3883,
+      "up10": 6.4867,
+      "down10": 6.204
+    },
+    "t_vs_tpa_ens3": {
+      "overall": -1.37,
+      "sunny": 4.7,
+      "cloudy": -1.41,
+      "ramp10": 3.99,
+      "nonramp": -10.8,
+      "up10": 1.84,
+      "down10": 3.63
+    },
+    "tpa_ens3": {
+      "overall": 2.824,
+      "sunny": 0.2636,
+      "cloudy": 4.0235,
+      "ramp10": 6.1168,
+      "nonramp": 1.5064,
+      "up10": 6.2784,
+      "down10": 5.9313
+    }
+  },
+  "anchors_t_awaens_vs": {
+    "ConvLSTM_ens": {
+      "overall": -5.35,
+      "sunny": -40.67,
+      "cloudy": -3.58,
+      "ramp10": 0.94,
+      "nonramp": -12.6,
+      "up10": 5.82,
+      "down10": -4.32
+    },
+    "SUNSET_ens": {
+      "overall": -8.13,
+      "sunny": -35.47,
+      "cloudy": -7.5,
+      "ramp10": -2.43,
+      "nonramp": -12.84,
+      "up10": -5.04,
+      "down10": 2.03
+    },
+    "E19": {
+      "overall": -1.73,
+      "sunny": -9.35,
+      "cloudy": -1.55,
+      "ramp10": -0.65,
+      "nonramp": -2.66,
+      "up10": -1.68,
+      "down10": 0.51
+    },
+    "E37": {
+      "overall": 0.31,
+      "sunny": 7.16,
+      "cloudy": 0.18,
+      "ramp10": -0.34,
+      "nonramp": 1.4,
+      "up10": -2.33,
+      "down10": 1.35
+    }
+  }
+}

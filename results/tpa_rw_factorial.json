@@ -1,0 +1,124 @@
+{
+ "cells": {
+  "CNN  plain": {
+   "overall": 2.8956,
+   "ramp10": 6.4043,
+   "nonramp": 1.4355,
+   "sunny": 0.398,
+   "cloudy": 4.1148,
+   "b5+kW": 7.7553
+  },
+  "CNN  rw4": {
+   "overall": 2.9304,
+   "ramp10": 5.9643,
+   "nonramp": 1.8322,
+   "sunny": 0.6481,
+   "cloudy": 4.1319,
+   "b5+kW": 7.0502
+  },
+  "CLB  plain": {
+   "overall": 2.8859,
+   "ramp10": 6.4002,
+   "nonramp": 1.4156,
+   "sunny": 0.2775,
+   "cloudy": 4.1112,
+   "b5+kW": 7.7381
+  },
+  "CLB  rw4": {
+   "overall": 2.9293,
+   "ramp10": 5.8966,
+   "nonramp": 1.8723,
+   "sunny": 0.404,
+   "cloudy": 4.1626,
+   "b5+kW": 6.8905
+  },
+  "TPA  plain": {
+   "overall": 2.824,
+   "ramp10": 6.1168,
+   "nonramp": 1.5064,
+   "sunny": 0.2636,
+   "cloudy": 4.0235,
+   "b5+kW": 7.3204
+  },
+  "TPA  rw4": {
+   "overall": 2.8799,
+   "ramp10": 5.8343,
+   "nonramp": 1.8178,
+   "sunny": 0.43,
+   "cloudy": 4.0889,
+   "b5+kW": 6.8314
+  }
+ },
+ "effects": {
+  "enc CLB->TPA plain": {
+   "d_overall": -0.0619,
+   "d_ramp10": -0.2834,
+   "t": {
+    "overall": 3.96,
+    "ramp10": 7.28,
+    "nonramp": -5.7,
+    "sunny": 6.65
+   }
+  },
+  "enc CLB->TPA rw": {
+   "d_overall": -0.0494,
+   "d_ramp10": -0.0623,
+   "t": {
+    "overall": 4.89,
+    "ramp10": 2.47,
+    "nonramp": 5.01,
+    "sunny": -8.38
+   }
+  },
+  "enc CNN->TPA plain": {
+   "d_overall": -0.0716,
+   "d_ramp10": -0.2875,
+   "t": {
+    "overall": 3.81,
+    "ramp10": 6.04,
+    "nonramp": -3.87,
+    "sunny": 34.67
+   }
+  },
+  "enc CNN->TPA rw": {
+   "d_overall": -0.0505,
+   "d_ramp10": -0.13,
+   "t": {
+    "overall": 3.93,
+    "ramp10": 3.84,
+    "nonramp": 1.21,
+    "sunny": 36.03
+   }
+  },
+  "rw on CNN": {
+   "d_overall": 0.0348,
+   "d_ramp10": -0.44,
+   "t": {
+    "overall": -2.68,
+    "ramp10": 15.09,
+    "nonramp": -26.28,
+    "sunny": -47.29
+   }
+  },
+  "rw on CLB": {
+   "d_overall": 0.0434,
+   "d_ramp10": -0.5036,
+   "t": {
+    "overall": -2.55,
+    "ramp10": 12.76,
+    "nonramp": -23.49,
+    "sunny": -37.25
+   }
+  },
+  "rw on TPA": {
+   "d_overall": 0.0559,
+   "d_ramp10": -0.2825,
+   "t": {
+    "overall": -3.46,
+    "ramp10": 7.06,
+    "nonramp": -18.4,
+    "sunny": -40.93
+   }
+  }
+ }
+}
