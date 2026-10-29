@@ -66,7 +66,8 @@ def main():
     plain, rw = [rows[n] for n in ["TPA-E3", "TPA-RW-E3"]]
     days = np.unique(dates)
     # Same strata and random seed as the locked whole-day analysis.
-    from analyze_tpa_final import SUNNY
+    SUNNY = {'2017-09-15', '2017-10-06', '2017-10-22', '2018-02-16', '2018-06-12',
+             '2018-06-23', '2019-01-25', '2019-06-23', '2019-07-14', '2019-10-14'}
     rng = np.random.default_rng(20261012)
     strata = [np.flatnonzero(np.isin(days, list(SUNNY))),
               np.flatnonzero(~np.isin(days, list(SUNNY)))]
@@ -89,15 +90,7 @@ def main():
     (RES / "tpa_loss_utility.json").write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
     with (RES / "tpa_loss_seed_metrics.csv").open("w", newline="", encoding="utf-8-sig") as f:
         writer = csv.DictWriter(f, fieldnames=list(seeds[0])); writer.writeheader(); writer.writerows(seeds)
-    tex_rows = []
-    for seed in range(3):
-        a, b = [next(r for r in seeds if r["seed"] == seed and r["family"] == family)
-                for family in ["TPA-E3", "TPA-RW-E3"]]
-        tex_rows.append(f"{seed} & {a['overall_rmse']:.4f} & {b['overall_rmse']:.4f} & "
-                        f"{a['ramp10_rmse']:.4f} & {b['ramp10_rmse']:.4f} " + r"\\")
-    (ROOT / "paper/generated/tpa_loss_seed_rows.tex").write_text(
-        "\n".join(tex_rows) + "\n" + r"\bottomrule" + "\n", encoding="utf-8")
-    lines = ["# TPA 爬坡加权损失的作用与论文写作依据", "",
+    lines = ["# TPA 爬坡加权损失指标分析", "",
              "由已保存预测复算，保持协议、测试集合和配置不变。", "",
              "## 直接结论", "",
              "爬坡加权损失有用，其作用是降低发生较大净功率变化时的功率预测误差，代价是平稳段误差增加。它没有单独预测爬坡标签，也尚未验证告警命中率、提前量或实际调度收益。", "",
@@ -123,9 +116,7 @@ def main():
               f"普通TPA J4={plain['weighted_mse4']:.4f}，加权TPA J4={rw['weighted_mse4']:.4f}，下降 {100*out['weighted_mse4_relative_reduction']:.2f}%。",
               f"加权减普通差值的晴阴分层整日配对95%区间 [{ci[0]:+.4f}, {ci[1]:+.4f}] kW²；使用20,000次抽样，条件于这20日，未校正多重比较。", "",
               "## 训练与评估的准确表述", "",
-              "run_pgf.py 的训练目标使用rw4，但学习率调整、早停及raw/EMA选择仍依据未加权的总体验证RMSE。因此本文验证的是加权训练在现有总体选模策略下的效果，不是专门按爬坡验证误差选出的事件最优模型。", "",
-              "## 可直接用于论文的段落", "",
-              f"同规模三成员对照显示，爬坡加权训练将爬坡RMSE由{plain['ramp_rmse']:.4f}降至{rw['ramp_rmse']:.4f} kW，而总体RMSE由{plain['overall_rmse']:.4f}升至{rw['overall_rmse']:.4f} kW。三个随机种子均呈现相同变化方向。由于非爬坡窗口占多数，其误差增加抵消了爬坡子集的改善，表明加权目标改变了不同运行状态之间的误差分配。采用与训练一致的固定权重复算测试平方误差时，指标下降{100*out['weighted_mse4_relative_reduction']:.2f}%，与训练目标相符。上述结果支持其在强调大幅变化段精度时的作用，但不能由此推断已验证爬坡告警或调度收益。", "",
+              "run_pgf.py 的训练目标使用rw4，但学习率调整、早停及raw/EMA选择仍依据未加权的总体验证RMSE。因此该实验验证的是加权训练在现有总体选模策略下的效果，不是专门按爬坡验证误差选出的事件最优模型。", "",
               f"审计：核对锁定分析记录的 {len(locked['sha256'])} 个预测文件SHA256、窗口连续性、目标时距以及两组集成的五项子集指标。数据依据：tpa_final_analysis.json、tpa_loss_utility.json；复算：src/analyze_tpa_loss_utility.py。"]
     (RES / "TPA_LOSS_UTILITY.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(json.dumps(out, ensure_ascii=False, indent=2))

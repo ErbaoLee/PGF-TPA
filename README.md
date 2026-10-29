@@ -88,7 +88,7 @@ python src/infer.py --family tpa-rw --seeds 0 --limit 32 --check-stored
 python src/infer.py --checkpoint results/pgf_nocsi_tpa_s0_f0_ckpt.pt --check-stored
 ```
 
-输出位于 `outputs/inference/`。`--limit` 的指标只针对样本前缀，不能作为论文完整测试结果。CPU/GPU和卷积算法之间允许小量浮点差异；检查阈值为 `atol=1e-3, rtol=1e-4` kW。
+输出位于 `outputs/inference/`。`--limit` 的指标只针对样本前缀，不能作为完整测试结果。CPU/GPU和卷积算法之间允许小量浮点差异；检查阈值为 `atol=1e-3, rtol=1e-4` kW。
 
 ## 5. 从头训练
 
@@ -101,6 +101,18 @@ python scripts/train.py --family tpa-rw --dry-run
 
 新结果保存在 `outputs/retrained/`，保留仓库中的固定结果。TPA配方采用40轮上限、batch128、Adam 3e-4、验证集早停与raw/EMA选择；基线的实际配方见 [复现说明](docs/REPRODUCIBILITY.md)。原实验没有启用完全确定性的CUDA算法，因此从头训练不保证逐位复现；**已有权重推理**与**已存预测复算**是复现发布结果的直接入口。
 
+## 6. SKIPP'D 真实预测驱动的光储实验
+
+新增 2017-09-20 事件的调度与频率响应复现，使用已发布的 15 分钟预测，覆盖主场景、干预消融、预测方法对照与原滤波敏感性，共 28 组数值记录。仅依赖 NumPy：
+
+```bash
+python scripts/run_skippd_case.py --check
+# 只验证三个主场景
+python scripts/run_skippd_case.py --suite main --check
+```
+
+输出至 `outputs/skippd_case/`，包含指标、逐分钟调度和逐期预警链。配置、时间口径、滤波系数与实现范围见 [实验说明](experiments/skippd_case/README.md)。本入口保留固定事件的原数值规则，预爬时段不是完全在线生成的调度策略。
+
 ## 目录
 
 ```text
@@ -108,6 +120,7 @@ src/                 模型、训练、推理与数据处理
 scripts/             固定版本下载、训练配方、指标复算与文件校验
 data/proc/           功率、时间、窗口索引、晴空缓存；图像在本地重建
 results/             权重、逐样本预测、原始指标与补充实验
+experiments/         新增实验的数值参照与运行说明
 checkpoints/         权重索引、散列、资产清单及数值参照
 docs/                协议、复现说明、发布验证与历史协议
 outputs/             本地重跑输出，Git忽略
@@ -117,4 +130,4 @@ outputs/             本地重跑输出，Git忽略
 
 本仓采用自建连续窗口协议，15分钟测试样本11,180个，而镜像源测试行数为14,003；不能与不同协议论文的数字直接比较或据此宣称全面SOTA。官方20个测试日包含10晴/10阴；`WEATHER_EXT`中的“雨天”是功率特征规则标签，来自曾参与早停的验证日，是探索性分析，不是独立雨天测试。历史逐样本显著性统计受同日相关性影响，仅作描述性参考。
 
-代码及本项目训练权重沿用目标仓库已有的 [GPL-3.0许可证](LICENSE)。上游数据遵循其自身条款与署名要求，不能改用代码许可证覆盖。原作者晴空参考函数保留原署名；详见 [第三方说明](THIRD_PARTY_NOTICES.md)。本仓未提供尚未确认的论文DOI、作者列表或虚构引用。
+代码及本项目训练权重沿用目标仓库已有的 [GPL-3.0许可证](LICENSE)。上游数据遵循其自身条款与署名要求，不能改用代码许可证覆盖。原作者晴空参考函数保留原署名；详见 [第三方说明](THIRD_PARTY_NOTICES.md)。

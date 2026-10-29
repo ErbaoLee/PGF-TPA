@@ -23,3 +23,21 @@ outputs/
 dist/
 build/
 .pytest_cache/
+
+# Manuscripts and publication build artifacts
+manuscript*/
+paper*/
+PGF_TPA_English_Draft/
+*.tex
+*.bib
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz

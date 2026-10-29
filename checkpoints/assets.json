@@ -3,10 +3,6 @@
     "bytes": 2618837,
     "sha256": "bb37215c536c7cd0db8f4f382e975e69e5560642b8fbb0f27721745db37c88f2"
   },
-  "results/APPENDIX_DATA.json": {
-    "bytes": 67186,
-    "sha256": "cbe045e41e8f6e967b4eac03f2d9e83c08c1b2536fdcb46083ad22c2d67d392a"
-  },
   "results/awa_summary.json": {
     "bytes": 7880,
     "sha256": "f90161ba62c307482d648c7ae664b343870d1a5c4c66b9e1b64922fb7f79750d"
@@ -2903,10 +2899,6 @@
     "bytes": 65357,
     "sha256": "a21214070ef76236d0764cd7bb0c06eec5650fc4fb93d5e823c3987407b7fb38"
   },
-  "results/ramp_paper.json": {
-    "bytes": 7919,
-    "sha256": "e76453aa1e34341d020a52f4de9563fdf6b1d34e1668d59fd513959a64fd0aad"
-  },
   "results/ramp_sig_h53.json": {
     "bytes": 534,
     "sha256": "44bcfc602405d868fdffee49de3d352eb57d7068f66656484c15c66003501c53"
@@ -3470,5 +3462,13 @@
   "data/proc/train_samples_h5.npz": {
     "bytes": 41937974,
     "sha256": "b8806d2d1f1ded7d3ac514f2dda342f17bacccffa3b30aedb8a96b4b8f3d233d"
+  },
+  "results/ramp_thresholds.json": {
+    "bytes": 7919,
+    "sha256": "e76453aa1e34341d020a52f4de9563fdf6b1d34e1668d59fd513959a64fd0aad"
+  },
+  "results/BENCHMARK_DETAILS.json": {
+    "bytes": 67186,
+    "sha256": "cbe045e41e8f6e967b4eac03f2d9e83c08c1b2536fdcb46083ad22c2d67d392a"
   }
 }

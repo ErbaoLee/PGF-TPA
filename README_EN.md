@@ -67,6 +67,17 @@ python scripts/train.py --family tpa --horizons 5 15 30 --seeds 0 1 2
 
 Inference goes to `outputs/inference/`; new training runs go to `outputs/retrained/`. A limited smoke run is not a full test result. Retraining is not bitwise deterministic across hardware; the released checkpoints and predictions provide the direct replication path. Checkpoint inventory: [index](checkpoints/README.md). Exact protocols and implementation qualifications: [reproducibility](docs/REPRODUCIBILITY.md), [protocol](docs/PROTOCOL.md).
 
+## SKIPP'D forecast-driven dispatch and frequency case
+
+The new event case uses the released 15-minute predictions for 2017-09-20. It reproduces 28 numerical scenarios: three main cases, intervention ablations, forecast baselines, a diagnostic true-value input and the archived filter sensitivity. Only NumPy is required.
+
+```bash
+python scripts/run_skippd_case.py --check
+python scripts/run_skippd_case.py --suite main --check
+```
+
+Outputs in `outputs/skippd_case/` include metrics, minute-resolution dispatch and issue/target-aligned alarm chains. See the [experiment guide](experiments/skippd_case/README.md) for parameters and exact scope. The archived event-timed preramp policy is not a fully online dispatch strategy; the archived smoothing coefficient is retained explicitly.
+
 ## Scope and license
 
 This is a reconstructed-window benchmark (11,180 test windows at 15 minutes), not the untouched official HDF5 stack protocol. Cross-paper SOTA claims are not justified by mismatched protocols. Official test days comprise ten sunny and ten cloudy days. Rule-labeled rainy validation-day analyses are exploratory because validation was used for early stopping. Historical sample-level significance tests do not account for within-day dependence.
